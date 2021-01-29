@@ -1,0 +1,38 @@
+<!-- https://maptimeboston.github.io/leaflet-intro/ -->
+<html>
+<head>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="./leaflet/leaflet.css"/>
+  <script src="./leaflet/leaflet.js"></script>
+		<script src="./jquery-2.1.1.min.js"></script>
+  <style>
+    #map{ height: 100% }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script>
+    // initialize the map
+    var map = L.map('map').setView([37.75567821595165, -122.44737956162464], 13);
+    // load a tile layer
+    L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png').addTo(map);
+		
+		// load GeoJson from an external file
+		$.getJSON('sf_crime.geojson', function(data){
+			// add rat icon
+			var ratIcon = L.icon({
+				iconUrl: './badge.svg',
+				iconSize: [40,40]
+			});
+			// add GeoJson layer to the map once the file is loaded
+			L.geoJson(data ,{
+				pointToLayer: function(feature,latlng){
+					var marker = L.marker(latlng,{icon: ratIcon});
+					return marker; 
+				}
+			}).addTo(map);
+		});
+		
+  </script>
+</body>
+</html>

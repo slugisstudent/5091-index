@@ -1,0 +1,100 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+   integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+   crossorigin=""/>
+  
+<style>
+    #mapid{ height: 100% }
+</style>
+
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+   integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+   crossorigin=""></script>
+
+
+  
+</head>
+<body>
+  
+  
+<div id="mapid"></div>
+  <script>
+  var mymap = L.map('mapid').setView([38.6270, -90.1980], 11);
+    L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png', {
+        attribution: 'Map tiles by Stamen Design, under CC BY 3.0.',
+        maxZoom: 18,
+        id: 'mapbox.streets'
+    }).addTo(mymap);
+
+  /*
+	var circle = L.circle([41.871, -87.628], {
+    color: 'green',
+    fillColor: '#0099aa',
+    fillOpacity: 0.5,
+    radius: 500
+  }).addTo(mymap);
+    
+  var polygon = L.polygon([
+    [41.871, -87.628],
+    [41.8, -87.628],
+    [41.9, -87.621]
+  ],
+  {
+  fillColor:'red',
+   color:'orange'
+   }
+  ).addTo(mymap);
+    
+  var marker1 = L.marker([41.873, -87.629]).addTo(mymap);
+  var marker2 = L.marker([41.8, -87.62]).addTo(mymap); 
+	*/
+		
+	
+	var foodIcon = L.icon({
+		iconUrl: './burger.png',
+		iconSize: [40,40],
+		shadowSize: [50, 64]
+	});
+	
+	var marker1 = L.marker([38.603680, -90.269500], {icon: foodIcon}).bindPopup(
+				"<sup>Burgers!</sup><sub>Fries!</sub></br>Come to <b>Courtesy Diner!</b>"),
+			marker2 = L.marker([38.590420, -90.305170], {icon: foodIcon}).bindPopup(
+				"<b>Lion's Choice</b><br>Counter-serve chain specializing in<br>slow-roasted beef sandwiches<br>served hot on toasted buns."),
+			marker3 = L.marker([38.64303799041657, -90.2587496071388], {icon: foodIcon}).bindPopup("This is some pizza! <br>@<b>Imo's Pizza</b>"),
+			marker4 = L.marker([38.62891567563968, -90.23632679361418], {icon: foodIcon}).bindPopup("<b>Crave Coffeehouse</b><br>This place probably has coffee. ☕"),
+			marker5 = L.marker([38.677356483669946, -90.42285806380868], {icon: foodIcon}).bindPopup("<b>John's Mom's House</b><br>Best pancakes in Missouri!");
+	
+	var markerGroup = L.layerGroup([marker1, marker2, marker3, marker4, marker5]).addTo(mymap);		
+		
+
+		
+	/*	
+  marker1.bindPopup("<b>Resturant 1</b><br>Spiros");
+  marker2.bindPopup("<b>Resturant 2</b><br>Annie Gunns");
+  circle.bindPopup("I am a circle.");
+  polygon.bindPopup("I am a polygon.");
+	*/
+    
+  /*
+		var popup = L.popup()
+    .setLatLng([41.871, -87.6])
+    .setContent("I am a standalone popup.")
+    .openOn(mymap);
+    
+  var popup = L.popup();
+	*/
+
+  function onMapClick(e) {
+      popup
+          .setLatLng(e.latlng)
+          .setContent("You clicked the map at " + e.latlng.toString())
+          .openOn(mymap);
+  }
+
+  mymap.on('click', onMapClick);
+    
+  </script>
+</body>
+</html>
