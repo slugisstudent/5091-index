@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" />
+	<meta
+	name="viewport"
+	content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
+
+	<title>Intro to CSVLayer | Sample | ArcGIS API for JavaScript 4.18</title>
+
+	<link
+	rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css"/>
+	<script src="https://js.arcgis.com/4.18/"></script>
+		
+    <style>
+      html,
+			body,
+			#viewDiv {
+				padding: 0;
+				margin: 0;
+				height: 100%;
+				width: 100%;
+				background-color: aliceblue;
+			}
+			#viewDiv canvas {
+				filter: drop-shadow(16px 16px 10px rgba(0, 0, 0, 0.5));
+			}
+
+			.esri-legend {
+				background-color: rgba(255, 255, 255, 0.8);
+			}
+    </style>
+
+    <script>
+    	require([
+				"esri/Map",
+				"esri/layers/CSVLayer",
+				"esri/views/MapView",
+				"esri/config",
+				"esri/core/urlUtils",
+				"dojo/domReady!"
+			], function(
+				Map,
+				CSVLayer,
+				MapView,
+				esriConfig,
+				urlUtils
+			) {
+
+				// If CSV files are not on the same domain as your website, a CORS enabled server
+				// or a proxy is required.
+			 var url = "https://raw.githubusercontent.com/gbrunner/Advanced_Python_for_GIS_and_RS/master/Week%202/stl_crime_wgs_84.csv";
+			 esriConfig.request.corsEnabledServers.push('https://rawgit.com');
+
+				// Paste the url into a browser's address bar to download and view the attributes
+				// in the CSV file. These attributes include:
+				// * mag - magnitude
+				// * type - earthquake or other event such as nuclear test
+				// * place - location of the event
+				// * time - the time of the event
+
+				const template = {
+					title: "Crime",
+					content: "Magnitude {mag} {type} hit {place} on {time}."
+				};
+
+				const csvLayer = new CSVLayer({
+					url: url,
+					title: "St. Louis Crime Heatmap",
+					copyright: "St. Loius Police Department",
+						latitudeField:"Lat",
+						longitudeField:"Lon",
+					popupTemplate: template
+				});
+
+				var symbol = {
+					type: "simple-marker", 
+					color:"blue"
+				};
+
+				csvLayer.renderer = {
+				 type: "heatmap",
+					colorStops: [
+						{ color: "rgba(63, 40, 102, 0)", ratio: 0 },
+						{ color: "#ff0080", ratio: 0.083 },
+						{ color: "#ec1280", ratio: 0.166 },
+						{ color: "#da2480", ratio: 0.249 },
+						{ color: "#c83680", ratio: 0.332 },
+						{ color: "#B64880", ratio: 0.415 },
+						{ color: "#A35B80", ratio: 0.498 },
+						{ color: "#916D80", ratio: 0.581 },
+						{ color: "#7F7F80", ratio: 0.664 },
+						{ color: "#6D9180", ratio: 0.747 },
+						{ color: "#5BA380", ratio: 0.83 },
+						{ color: "#48B680", ratio: 0.913 },
+						{ color: "#36C880", ratio: 1 }
+					],
+					maxPixelIntensity: 60,
+					minPixelIntensity: 0
+				};
+
+				var map = new Map({
+					basemap: "gray",
+					layers: [csvLayer]
+				});
+
+				var view = new MapView({
+					container: "viewDiv",
+					center: [-90.1994, 38.6270],
+					zoom: 11,
+					map: map
+				});
+
+			});
+    </script>
+  </head>
+
+  <body>
+    <div id="viewDiv"></div>
+  </body>
+</html>
