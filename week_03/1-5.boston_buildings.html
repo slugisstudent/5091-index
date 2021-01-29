@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+		<title>Intro to SceneView - Create a 3D map - 4.18</title>
+
+		<link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/css/main.css">
+		<script src="https://js.arcgis.com/4.18/"></script>
+    <style>
+      html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 10px auto;
+        height: 90%;
+        width: 98%;				
+      }
+    </style>
+
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.18/esri/themes/light/main.css"
+    />
+    <script src="https://js.arcgis.com/4.18/"></script>
+
+		<script>
+			require([
+				"esri/WebScene",
+				"esri/views/SceneView",
+				"esri/Camera",
+				"esri/widgets/Home",
+				"dojo/domReady!"
+			], function(WebScene, SceneView, Camera, Home) {
+
+
+					/*var map = new Map({
+						basemap: "streets",
+						ground: "world-elevation"
+					});*/
+					var scene = new WebScene({
+						portalItem:{
+						 id:"8046207c1c214b5587230f5e5f8efc77" 
+						}
+					});
+
+					var camera = new Camera({
+						position: [
+							 -71.0589,
+							42.3601,
+							5000// elevation in meters
+						],
+						tilt:0,
+						heading: 0
+					})				
+
+					var camera1 = new Camera({
+						position: [
+							 -71.078317,
+							42.352655,
+							2500// elevation in meters
+						],
+						tilt:35,
+						heading: 0
+					})
+
+					var camera2 = new Camera({
+						position: [
+							 -71.058317,
+							42.322655,
+							1500// elevation in meters
+						],
+						tilt: 65,
+						heading: 0
+					});
+
+					var camera3 = new Camera({
+						position: [
+							-70.96285593287432,
+							42.33616242368304,
+							500
+						],
+						tilt: 75,
+						heading: 285
+					})
+
+					var view = new SceneView({
+						container: "viewDiv",
+						map: scene,
+						viewingMode:"global",
+						camera: camera,
+						environment: {
+								lighting: {
+									date: new Date(),
+									directShadowsEnabled: true,
+									// don't update the view time when user pans.
+									// The clock widget drives the time
+									cameraTrackingEnabled: false
+								}
+						},
+				});
+
+				var homeBtn = new Home({
+						view: view
+					});
+
+					// Add the home button to the top left corner of the view
+				view.ui.add(homeBtn, "top-left");
+
+				[skirt, cent, ocean].forEach(function(button) {
+					button.style.display = 'flex';
+					view.ui.add(button, 'top-right');
+				});
+
+				cent.addEventListener('click', function() {
+					// reuse the default camera position already established in the homeBtn
+					view.goTo({
+						target:camera2
+					});
+				});
+
+				skirt.addEventListener('click', function() {
+					// reuse the default camera position already established in the homeBtn
+					view.goTo({
+						target:camera1
+					});
+				});
+
+				ocean.addEventListener('click',function(){
+					view.goTo({
+						target:camera3
+					});
+				});
+			});
+		</script>
+  </head>
+
+	<body>
+		<div id="viewDiv"></div>
+		<button id="skirt" class="off">Boston Outskirt</button>
+		<button id="cent" class="off">Boston City Center</button>
+		<button id="ocean" class="off">Ocean View</button>
+	</body>
+</html>
