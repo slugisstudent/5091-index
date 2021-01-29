@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <title>Widget Test | Sample | ArcGIS API for JavaScript 4.18</title>
+
+    <style>
+      html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.18/esri/themes/light/main.css"
+    />
+    <script src="https://js.arcgis.com/4.18/"></script>
+
+    <script>
+      require([
+				"esri/Map",
+				"esri/views/MapView",
+				"esri/widgets/Compass", 
+				"esri/widgets/BasemapToggle",
+				"esri/widgets/ScaleBar"
+			], function (Map, MapView, Compass, BasemapToggle, ScaleBar) {
+				var map = new Map({
+					basemap: "national-geographic"
+				});
+				
+				var view = new MapView({
+					container: "viewDiv",
+					scale: 500000,
+					center: [-90, 30, 11],
+					map: map
+				});
+				
+				var compassWidget = new Compass({
+					view: view
+				});
+				view.ui.add(compassWidget, "top-left");
+				
+				var basemapToggle = new BasemapToggle({
+					view: view,
+					netBasemap: "satellite"
+				});
+				view.ui.add(basemapToggle, "bottom-right");
+				
+				var scaleBar = new ScaleBar ({
+					view: view,
+					unit: "dual" // displays both metric and non-metric units
+				});
+				view.ui.add(scaleBar, {
+					position: "bottom-left"
+				});
+				
+			});
+		</script>
+	</head>
+	<body>
+		<div id="viewDiv"></div>
+	</body>
+</html>
