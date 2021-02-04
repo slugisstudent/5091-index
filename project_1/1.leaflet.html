@@ -1,0 +1,225 @@
+<html>
+<head>
+	<meta name="robots" content="noindex">
+	<meta name="googlebot" content="noindex">
+	
+	<title>Louisiana Vaccination Facility Locations and Vehicle Access</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <style>
+  	#mapid { height: 100%; }
+		
+		.legendColors {
+			border: 1px solid grey; 
+			border-radius: 4px;
+			display: inline-block
+		}
+		
+		.legendFont {
+			display: inline-block;
+			color: #000000; 
+		}
+		
+		.infoDivs {
+			padding: 10px; 
+			background: #ffffff; 
+			border: 1px solid grey; 
+			border-radius: 10px; 
+			opacity: 0.9
+		}
+  </style>
+  <script language="javascript">
+  	function init() {
+			var map = L.map('mapid').setView([30.9843, -91.9623]); // bounds set by tracts geojson
+			
+			map.createPane('labels');
+			map.getPane('labels').style.zIndex = 650;
+			map.getPane('labels').style.pointerEvents = 'none';
+						
+			var basemap = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
+			}).addTo(map); 
+			
+			var basemapLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
+        pane: 'labels'
+			}).addTo(map);
+			//map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text. Attribution overload
+			
+			
+			
+			function highlightFeature(e) {
+    		var layer = e.target;
+
+    		layer.setStyle({
+					weight: 5,
+					fillOpacity: 0.6
+    		});
+
+				if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        	layer.bringToFront();
+    		}
+				
+				tractInfo.update(layer.feature.properties);
+			};
+						
+			function resetHighlight(e) {
+				var layer = e.target;
+
+    		layer.setStyle({
+					weight: 0.5,
+					fillOpacity: 0.6
+    		});
+				
+				tractInfo.update();
+				
+			};
+			
+			
+			
+			
+			var tractInfo = L.control({position: 'topright'});
+			tractInfo.onAdd = function (map) {
+				this._div = L.DomUtil.create('div', 'infoDivs');
+				this._div.setAttribute("style", "width=600");// create a div with a class "tractInfo"
+				this.update();
+				return this._div;			
+			};
+			
+			tractInfo.update = function (props) {
+				this._div.innerHTML = (props ? '<b style="color: gray">Hover to see detail on vehicle access.<br>Click map marker to display facility information.<br><br>Mobile users tap for more info.</b><br><br><b>Households with No Vehicle Access:</b><br>' + parseFloat(props.percent_no_vehicle * 100).toFixed(2) + '%' : '<b>Hover to see detail on vehicle access.<br>Click map marker to display facility information.<br><br>Mobile users tap for more info.</b>');
+			};
+			
+			tractInfo.addTo(map);
+
+			$.getJSON("data/tracts_no_vehicle.geojson", function(data) {
+				var tracts = L.geoJson(data, {
+					
+					style: 
+						function(feature) {
+							var fillColor, percent = feature.properties.percent_no_vehicle;
+							if ( percent > .30 ) fillColor = "#a50f15";
+							else if ( percent > .20 ) fillColor = "#de2d26";
+							else if ( percent > .10 ) fillColor = "#fb6a4a";
+							else if ( percent > .05 ) fillColor = "#fcae91";
+							else if ( percent > 0 ) fillColor = "#ffffff";
+							else fillColor = "#ffffff";  // no data					}
+							return { color: "#000000", opacity: 0.4, weight: 0.5, fillColor: fillColor, fillOpacity: 0.6};
+						},
+					
+					onEachFeature: 
+						function(feature,layer) {
+							layer.on({
+								mouseover: highlightFeature,
+								mouseout: resetHighlight
+							});
+						}
+
+					
+				});
+				tracts.addTo(map);
+				map.fitBounds(tracts.getBounds());	
+
+			});
+			
+			function nanRemovePhone(props) {
+				if (props.Phone == 'nan') return '<br><i>No Phone Number Provided</i>';
+				else return '<br>' + props.Phone;
+			};
+			
+			function nanRemoveWeb(props) {
+				if (props.Website == 'nan') return '<br><i>No Website Provided</i>';
+				else return "<br><a href='" + props.Website + "' target='blank'>Website</a>";
+			};
+						
+			$.getJSON("data/vac_loc.geojson", function(data) {
+				/*
+				var markerOptions = {
+					radius: 8,
+					fillColor: "#ff7800",
+					color: "#ff7800",
+					weight: 1.5,
+					opacity: 1,
+					fillOpacity: 0.3
+				};
+				*/
+				
+				
+				var facilities = L.geoJson(data, {
+					/*
+					pointToLayer: function(feature, latlng) {
+					return new L.CircleMarker(latlng, markerOptions);
+					},
+					*/
+					
+					onEachFeature: function (feature, layer) {
+						layer.bindPopup("<strong>" + 
+														feature.properties.Facility + "</strong><br>" + 
+														feature.properties.Address +
+														nanRemovePhone(feature.properties) +  
+														nanRemoveWeb(feature.properties)
+													 )
+					}
+				});
+				
+				facilities.addTo(map);
+				
+			});
+			
+			var legend = L.control({position: 'bottomright'});
+			legend.onAdd = function (map) {
+				var div = L.DomUtil.create('div', 'infoDivs');
+				div.innerHTML += `
+							<font class="legendFont">
+							<div style="margin-bottom: 5px">
+								<b>Households with No Vehicle Access</b>
+							</div>
+								<i class = "legendColors" style="background: #a50f15;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+									&nbsp;&nbsp;> 30 % Households<br>
+								<i class = "legendColors" style="background: #de2d26;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+									&nbsp;&nbsp;> 20 % Households<br>
+								<i class = "legendColors" style="background: #fb6a4a;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+									&nbsp;&nbsp;> 10 % Households<br>
+								<i class = "legendColors" style="background: #fcae91;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+									&nbsp;&nbsp;>&emsp;5 % Households<br>	
+								<i class = "legendColors" style="background: #ffffff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+									&nbsp;&nbsp;&ndash;&emsp; 0 to 5 % Households<br>
+							</font>`;
+				//div.setAttribute("class", "infoDivs");
+				return div;
+			};
+
+			legend.addTo(map);
+			
+			
+			/* IN ORDER TO UNDERSTAND HOW TO GET A TOGGLE TO WORK, I NEED TO RESEARCH ASYNCHRONOUS PROCESSES
+			https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call
+			
+			function toggleFacilities() {
+				map.removeLayer(facilities);
+			};
+			
+			var toggle = L.control({position: 'bottomright'});
+			toggle.onAdd = function(map) {
+				var div = L.DomUtil.create('div', 'infoDivs');
+				div.innerHTML += `<button onclick="toggleFacilities();">Toggle Facilities</button>`;
+				return div;
+			}
+			toggle.addTo(map);
+			*/
+			
+		};
+		
+   </script>  
+</head>
+<body onLoad="javascript:init();">
+	<div id="mapid"></div>	
+</body>                                                                                                                          
+</html>
+
+<!-- needs to be fixed:
+	Bernice Pharmacy Geocoding
+
+	add layer select option
+-->
+    

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>Louisiana Vaccination Facility Locations and Vehicle Access</title>
+
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+
+  </style>
+
+
+	<link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css" />
+	<script src="https://js.arcgis.com/4.18/"></script>
+
+	<script>
+		
+		require(["esri/Map", 
+						 "esri/views/SceneView",
+						 "esri/layers/FeatureLayer",
+						 "esri/layers/GeoJSONLayer",
+						 "esri/widgets/Legend"
+		], 
+		function(
+			Map,
+			SceneView,
+			FeatureLayer,
+			GeoJSONLayer,
+			Legend
+		) {
+			
+      const url1 = "data/vac_loc.geojson";
+
+      const template1 = {
+        title: "Vaccination Facility",
+        content: "{facility}<br>{address}<br>{phone}<br><a href='{website}'>Website</a>"
+      };
+      const template2 = {
+        title: "Households with No Vehicle Access",
+        content: "No vehicle access households / Total Households = <b>{percent_no_vehicle}</b>",
+        fieldInfos: [
+          {
+            fieldName: 'percent_no_vehicle',
+            format: {
+              places: 2
+            }
+          }
+        ]
+      };
+			
+			
+			        // Create objectSymbol and add to renderer
+			var objectSymbol = {
+				type: "point-3d", // autocasts as new PointSymbol3D()
+				symbolLayers: [
+					{
+						type: "object", // autocasts as new ObjectSymbol3DLayer()
+						width: 200,
+						height: 500,
+						resource: {
+							primitive: "cube"
+						},
+						material: {
+							color: "#0e85cf"
+						}
+					}
+				]
+			};
+
+			var objectSymbolRenderer = {
+				type: "simple", // autocasts as new SimpleRenderer()
+				symbol: objectSymbol
+			};
+			
+      /*
+			const renderer1 = {
+        type: "simple",
+        symbol: {
+          type: "simple-marker",
+          color: "#0e85cf",
+          outline: {
+            color: "black"
+          },
+					size: 10
+        }
+      };
+			*/
+
+			
+			const renderer2 = {
+				type: "simple",
+				symbol: {
+					type: "polygon-3d",
+					symbolLayers: [{ type: "extrude"}]
+				},
+				label: "% population in poverty by county", // label for the legend
+  			visualVariables: [
+					{
+						type: "size",
+						field: "households_no_vehicle",
+						normalizationField: "households_total",
+						stops: [
+							{
+								value: 0.05,
+								size: 500
+							},
+							{
+								value: 0.6,
+								size: 6000
+							}
+						]
+					},
+					{
+						type: "color", // indicates this is a color visual variable
+						field: "households_no_vehicle", // total population in poverty
+						normalizationField: "households_total", // total population
+						stops: [
+							{
+								value: 0.05, // features where < 10% of the pop in poverty
+								color: "#ffffff", // will be assiged this color (beige)
+								label: "5% or lower" // label to display in the legend
+							},
+							{
+								value: 0.6, 
+								color: "#a50f15", 
+								label: "30% or higher" 
+							}		
+						]
+
+						// features with values between 0.1 - 0.3 will be assigned
+						// a color on a ramp between beige and purple proportional
+						// to where the value falls between 0.1 and 0.3
+					}
+				]
+			};
+
+      const facilitiesLayer = new GeoJSONLayer({
+        url: url1,
+        copyright: "Vaccination Facility Locations and Vehicle Access",
+        popupTemplate: template1,
+        renderer: objectSymbolRenderer,
+				elevationInfo: {
+					mode: "relative-to-scene"
+				}
+      });
+			
+			var tractsLayer = new FeatureLayer({
+				url: "https://services2.arcgis.com/bB9Y1bGKerz1PTl5/ArcGIS/rest/services/Louisiana_Census_Tracts_and_Household_Vehicle_Access/FeatureServer/0",
+				outFields:[""],
+				popupTemplate: template2,
+				renderer: renderer2
+			});
+			
+			var map = new Map({
+				basemap: "topo-vector",
+				ground: "world-elevation",
+				layers: [facilitiesLayer]
+
+			});
+			
+			map.add(tractsLayer);
+			
+			var view = new SceneView({
+				container: "viewDiv",
+				map: map,
+				scale: 5000000,
+        center: [-91.9623, 30.9843]
+			});
+			
+			map.reorder(facilitiesLayer, 1);
+			
+			var legend = new Legend({
+				view: view,
+				layerInfos: [{
+					layer: tractsLayer,
+					title: "Households No Vehicle Access"
+				}]
+			});
+			
+			view.ui.add(legend, "top-right");
+			
+		});
+	</script>
+</head>
+
+<body>
+	<div id="viewDiv"></div>
+</body>
+</html>
+
+
+<!-- need to remove "nan" from facilities popup for websites or it loads back on itself -->

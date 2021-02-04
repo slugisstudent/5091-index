@@ -1,0 +1,4597 @@
+{
+  "type": "FeatureCollection",
+  "features": [  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.209887,30.396925]
+      },
+      "properties": {
+        "Parish": "Acadia",
+        "Facility": "Church Point Community Pharmacy",
+        "Address": "731 S Main Street, Church Point, LA",
+        "Website": "http://www.communitypharmacyrx.com/",
+        "Phone": "(337) 684-1911"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.382277,30.230415]
+      },
+      "properties": {
+        "Parish": "Acadia",
+        "Facility": "Super 1 Pharmacy #639",
+        "Address": "2004 N Parkerson Avenue, Crowley, LA",
+        "Website": "https://www.super1foods.com/stores/crowley-639/6055",
+        "Phone": "(337) 785-2421"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.362087,30.230114]
+      },
+      "properties": {
+        "Parish": "Acadia",
+        "Facility": "Walgreens Pharmacy #10399",
+        "Address": "806 Odd Fellows Road, Crowley, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.269991,30.244977]
+      },
+      "properties": {
+        "Parish": "Acadia",
+        "Facility": "Rayne Medicine Shoppe",
+        "Address": "913 The Boulevard, Rayne, LA",
+        "Website": "https://rayne.medicineshoppe.com/contact",
+        "Phone": "(337) 334-3399"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.991926,30.100381]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Viallon Drug Company of Donaldsonville",
+        "Address": "309 Marchand Drive, Donaldsonville, LA",
+        "Website": "https://www.facebook.com/Viallon-Drug-Co-of-Donaldsonville-105102667610177/",
+        "Phone": "(225) 725-4288"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.98355,30.095299]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Walgreens Pharmacy #9753",
+        "Address": "1125 Marchand Drive, Donaldsonville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.988407,30.254112]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Walgreens #11196",
+        "Address": "12506 Highway 73, Geismar, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.923189,30.21878]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Bertrand's Pharmacy",
+        "Address": "2001 S Shirley Avenue, Gonzales, LA",
+        "Website": "https://bertrandspharmacy.com/contact",
+        "Phone": "(225) 644-5641"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.909586,30.233246]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Lagniappe Pharmacy #2",
+        "Address": "117 N Airline Highway, Gonzales, LA",
+        "Website": "https://www.lagniapperx.com/locations",
+        "Phone": "(225) 647-0111"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.938633,30.321555]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Lagniappe Pharmacy #4",
+        "Address": "40017 Highway 42, Prairieville, LA",
+        "Website": "https://www.lagniapperx.com/locations",
+        "Phone": "(225) 622-4817"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.939744,30.321967]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "Walgreens #13779",
+        "Address": "39527 Highway 42, Prairieville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.869545,30.254339]
+      },
+      "properties": {
+        "Parish": "Ascension",
+        "Facility": "St. Amant Pharmacy",
+        "Address": "12502 Highway 431, St. Amant, LA",
+        "Website": "https://stamantpharmacy.com/contact",
+        "Phone": "(225) 644-7288"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.033863,29.95661]
+      },
+      "properties": {
+        "Parish": "Assumption",
+        "Facility": "Assumption Community Hospital Pharmacy",
+        "Address": "135 Highway 402, Napoleonville, LA",
+        "Website": "nan",
+        "Phone": "(985) 369-3600"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.029349,29.940632]
+      },
+      "properties": {
+        "Parish": "Assumption",
+        "Facility": "Reddy Family Medical Center",
+        "Address": " Napoleonville 154 Highway 1008, Napoleonville, LA",
+        "Website": "https://reddyfamilymedicalclinic.com/",
+        "Phone": "(985) 369-1880"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.212469,29.958423]
+      },
+      "properties": {
+        "Parish": "Assumption",
+        "Facility": "Reddy Family Medical - Pierrepart",
+        "Address": "3407 Highway 70, Pierre Part, LA",
+        "Website": "https://reddyfamilymedicalclinic.com/",
+        "Phone": "(985) 252-1000"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.06191,31.095904]
+      },
+      "properties": {
+        "Parish": "Avoyelles",
+        "Facility": "Walmart Pharmacy #1128",
+        "Address": "7162 Highway 1, Mansura, LA",
+        "Website": "https://www.walmart.com/store/1128-marksville-la",
+        "Phone": "(318) 253-4073"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.06854,31.12014]
+      },
+      "properties": {
+        "Parish": "Avoyelles",
+        "Facility": "Avoyelles Community Health Center",
+        "Address": "338 Moreau Street, Marksville, LA",
+        "Website": "https://docs.google.com/forms/d/e/1FAIpQLScoSyXmUE6w-llDU2XREjWL0NV7SQLC94-9UN2AngGvTqRd7w/viewform",
+        "Phone": "(318) 597-8991"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.080388,31.131496]
+      },
+      "properties": {
+        "Parish": "Avoyelles",
+        "Facility": "Don's Pharmasave",
+        "Address": "134 Rue Medecine Street, Marksville, LA",
+        "Website": "https://www.facebook.com/Dons-Pharmasave-347236548798253/",
+        "Phone": "(318) 359-3774"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.070154,31.125164]
+      },
+      "properties": {
+        "Parish": "Avoyelles",
+        "Facility": "Walgreens #11830",
+        "Address": "236 S Main Street, Marksville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.299913,30.846282]
+      },
+      "properties": {
+        "Parish": "Beauregard",
+        "Facility": "Brookshire Brothers Pharmacy #50",
+        "Address": "1103 W First Street, DeRidder, LA",
+        "Website": "https://www.brookshirebrothers.com/store-location/store-50",
+        "Phone": "(337) 463-2258"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.287222,30.860841]
+      },
+      "properties": {
+        "Parish": "Beauregard",
+        "Facility": "Walgreens #10537",
+        "Address": "916 N Pine Street, DeRidder, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.912984,32.558228]
+      },
+      "properties": {
+        "Parish": "Bienville",
+        "Facility": "Arcadia Family Pharmacy",
+        "Address": "1311 Hazel Street, Arcadia, LA",
+        "Website": "https://www.arcadiafamilypharmacy.com/",
+        "Phone": "(318) 263-3948"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.28366,32.33539]
+      },
+      "properties": {
+        "Parish": "Bienville",
+        "Facility": "Bienville Community Health Center",
+        "Address": "3265 Military Rd, Ringgold, LA",
+        "Website": "nan",
+        "Phone": "(318) 894-2341"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.744577,32.678]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Brookshires Pharmacy #017",
+        "Address": "6280 Highway 3, Benton, LA",
+        "Website": "https://www.brookshires.com/stores/benton-17/6347",
+        "Phone": "(318) 965-3667"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.663101,32.458052]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Brookshires Pharmacy #107",
+        "Address": "4918 Barksdale Boulevard, Bossier City, LA",
+        "Website": "https://www.brookshires.com/stores/bossier-city-107/6320",
+        "Phone": "(318) 549-2107"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.709449,32.534553]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "David Raines CHC - Bossier",
+        "Address": "1514 Doctors Drive, Bossier City, LA",
+        "Website": "https://www.davidraineschc.org/locations",
+        "Phone": "(318) 549-2500​"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.706465,32.55068]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Kroger Pharmacy #534",
+        "Address": "1050 George Dement Boulevard, Bossier City, LA",
+        "Website": "https://www.kroger.com/rx/guest/get-vaccinated",
+        "Phone": "(318) 747-3162"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.69473,32.519644]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Super 1 Pharmacy #616",
+        "Address": "1870 Airline Drive, Bossier City, LA",
+        "Website": "https://www.super1foods.com/stores/bossier-city-616/6032",
+        "Phone": "(318) 746-8401"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.711011,32.566136]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Walgreens #9998",
+        "Address": "3400 Airline Drive, Bossier City, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.61239,32.55606]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Brookshires Pharmacy #057",
+        "Address": "1125 East Highway 80, Haughton, LA",
+        "Website": "https://www.brookshires.com/stores/haughton-57/6386",
+        "Phone": "(318) 949-4131"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.699629,32.905638]
+      },
+      "properties": {
+        "Parish": "Bossier",
+        "Facility": "Kelly Pharmacy, Inc.",
+        "Address": "302 E Palmetto Avenue, Plain Dealing, LA",
+        "Website": "http://www.kellyrx.com/",
+        "Phone": "(318) 326-4229"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.70862,32.45635]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Albertsons/Savon #218",
+        "Address": "105 E Southfield Road, Shreveport, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons0218",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.778273,32.483555]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Boudreaux's Compounding Pharmacy",
+        "Address": "2551 Greenwood Road, Shreveport, LA",
+        "Website": "https://www.boudreauxscompounding.com/",
+        "Phone": "(318) 631-2005"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.74633,32.45498]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Brookshires Pharmacy #018",
+        "Address": "5828 Line Avenue, Shreveport, LA",
+        "Website": "https://www.brookshires.com/stores/shreveport-18/6348",
+        "Phone": "(318) 869-0669"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.781927,32.558349]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Brookshires Pharmacy #024",
+        "Address": "3000 N Market Street, Shreveport, LA",
+        "Website": "https://www.brookshires.com/stores/shreveport-24/6355",
+        "Phone": "(318) 424-5560"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.80618,32.40145]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Brookshires Pharmacy #037",
+        "Address": "9250 Mansfield Road, Shreveport, LA",
+        "Website": "https://www.brookshires.com/stores/shreveport-37/6367",
+        "Phone": "(318) 686-6311"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.82841,32.53692]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "David Raines CHC - Shreveport North",
+        "Address": "1625 David Raines Road, Shreveport, LA",
+        "Website": "https://www.davidraineschc.org/locations",
+        "Phone": "(318) 425-2252"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.78724,32.44154]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "David Raines CHC - Shreveport West",
+        "Address": "3021 W 70th Street, Shreveport, LA",
+        "Website": "https://www.davidraineschc.org/locations",
+        "Phone": "(318) 507-3140"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.70827,32.45481]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Drug Emporium #210",
+        "Address": "5819 E Kings Highway, Shreveport, LA",
+        "Website": "https://www.drugemporiuminc.com/stores/shreveport-la/",
+        "Phone": "(318) 861-7896"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.728496,32.393758]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Kroger Pharmacy #533",
+        "Address": "9484 Ellerbe Road, Shreveport, LA",
+        "Website": "https://www.kroger.com/rx/guest/get-vaccinated",
+        "Phone": "(318) 517-6973"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.721415,32.44463]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Kroger Pharmacy #539",
+        "Address": "6652 Youree Drive, Shreveport, LA",
+        "Website": "https://www.kroger.com/rx/guest/get-vaccinated",
+        "Phone": "(318) 795-9966"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.779614,32.454491]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Super 1 Pharmacy #608",
+        "Address": "2640 Waggoner Avenue, Shreveport, LA",
+        "Website": "https://www.super1foods.com/stores/shreveport-608/6025",
+        "Phone": "(318) 631-2065"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.796372,32.475172]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Walgreens #05181",
+        "Address": "3555 Greenwood Road, Shreveport, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.740409,32.482256]
+      },
+      "properties": {
+        "Parish": "Caddo",
+        "Facility": "Brookshires Pharmacy #78",
+        "Address": "510 Kings Hwy, Shreveport, LA",
+        "Website": "https://www.brookshires.com/stores/shreveport-78/6405",
+        "Phone": "(318) 424-0853"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.437595,30.450927]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Brookshire Brothers Pharmacy #31",
+        "Address": "300 West Fourth Street, DeQuincy, LA",
+        "Website": "https://www.brookshirebrothers.com/store-location/store-31",
+        "Phone": "(337) 786-5863"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.265405,30.169691]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Albertsons/Savon #2798",
+        "Address": "2750 Country Club Road, Lake Charles, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons2798",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.22035,30.18509]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Albertsons/Savon #717",
+        "Address": "4060 Ryan Street South, Lake Charles, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons0717",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.216411,30.197945]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Boudreaux's New Drug Store",
+        "Address": "404 E Prien Lake Road, Lake Charles, LA",
+        "Website": "https://covidlakecharles.com",
+        "Phone": "(337) 436-7216"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.209633,30.18547]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Genoa Healthcare Pharmacy #10938",
+        "Address": "4105 Kirkman Street, Lake Charles, LA",
+        "Website": "https://www.genoahealthcare.com/locations/louisiana/",
+        "Phone": "(337) 426-0906"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.263987,30.168985]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Hobgood Pharmacy",
+        "Address": "2640 Country Club Road, Lake Charles, LA",
+        "Website": "https://www.hobgoodrx.net/",
+        "Phone": "(337) 602-6027"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.251795,30.170522]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Kroger Pharmacy #394",
+        "Address": "2010 Country Club Road, Lake Charles, LA",
+        "Website": "https://www.kroger.com/rx/guest/get-vaccinated",
+        "Phone": "(337) 990-4902"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.202,30.31934]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Pettit's Family Pharmacy",
+        "Address": "114 Gloria Drive, Lake Charles, LA",
+        "Website": "https://www.pettitspharmacy.com/",
+        "Phone": "(337) 405-7880"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.180888,30.212721]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Walgreens #3373",
+        "Address": "2000 Gertsner Memorial Drive, Lake Charles, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.219564,30.205986]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Walgreens #6219",
+        "Address": "2636 Ryan Street, Lake Charles, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.194888,30.301025]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Walgreens #7197",
+        "Address": "120 N Highway 171, Moss Bluff, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.376327,30.225435]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Brookshire Brothers Pharmacy #47",
+        "Address": "1612 Ruth Street, Sulphur, LA",
+        "Website": "https://www.brookshirebrothers.com/store-location/store-47",
+        "Phone": "(337) 527-0033"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.360022,30.227756]
+      },
+      "properties": {
+        "Parish": "Calcasieu",
+        "Facility": "Walgreens #2920",
+        "Address": "1021 Beglis Parkway, Sulphur, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.08011,32.15368]
+      },
+      "properties": {
+        "Parish": "Caldwell",
+        "Facility": "Caldwell Drug",
+        "Address": "8141 Highway 165, Columbia, LA",
+        "Website": "https://www.facebook.com/Caldwell-Drug-108338354288122/",
+        "Phone": "(318) 502-4032"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.08011,32.15368]
+      },
+      "properties": {
+        "Parish": "Caldwell",
+        "Facility": "J & K Drugs",
+        "Address": "7190 Highway 165, Columbia, LA",
+        "Website": "nan",
+        "Phone": "(318) 649-0825"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.125635,29.81602]
+      },
+      "properties": {
+        "Parish": "Cameron",
+        "Facility": "South Cameron Hospital",
+        "Address": "5360 W Creole Highway, Cameron, LA",
+        "Website": "nan",
+        "Phone": "(337) 605-0531"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.815562,31.623721]
+      },
+      "properties": {
+        "Parish": "Catahoula",
+        "Facility": "Catahoula Parish Health Unit (@ Jonesville Armory)",
+        "Address": "610 Dorothy Drive, Jonesville, LA",
+        "Website": "https://laredcap.oph.dhh.la.gov/surveys/?s=NL487F89T9",
+        "Phone": "(318) 339-8352"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.139248,32.961197]
+      },
+      "properties": {
+        "Parish": "Claiborne",
+        "Facility": "Ted's Pharmacy, LLC",
+        "Address": "1866 Main Street, Haynesville, LA",
+        "Website": "http://www.tedsrx.com/",
+        "Phone": "(318) 624-1053"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.057094,32.80056]
+      },
+      "properties": {
+        "Parish": "Claiborne",
+        "Facility": "Brookshires Pharmacy #066",
+        "Address": "817 W Main Street, Homer, LA",
+        "Website": "https://www.brookshires.com/stores/homer-66/6393",
+        "Phone": "(318) 927-9651"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.055927,32.801599]
+      },
+      "properties": {
+        "Parish": "Claiborne",
+        "Facility": "Claiborne Pharmacy",
+        "Address": "833 W Main Street, Homer, LA",
+        "Website": "https://www.claibornepharmacy.com/",
+        "Phone": "(318) 927-3523"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.556051,31.649472]
+      },
+      "properties": {
+        "Parish": "Concordia",
+        "Facility": "Scott's Pharmacy Ferriday",
+        "Address": "114 Serio Boulevard, Ferriday, LA",
+        "Website": "https://www.scottspharmacy.org/#tab6",
+        "Phone": "(318) 757-3035"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.467633,31.574336]
+      },
+      "properties": {
+        "Parish": "Concordia",
+        "Facility": "Book's Pharmacy, LTD",
+        "Address": "1158 Logan Sewell Drive, Vidalia, LA",
+        "Website": "https://www.bookspharmacy.com/contact",
+        "Phone": "(318) 414-2616"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.427752,31.567113]
+      },
+      "properties": {
+        "Parish": "Concordia",
+        "Facility": "Reeves Drug Store",
+        "Address": "307 Carter Street, Vidalia, LA",
+        "Website": "https://reevesdrugs.com/locations",
+        "Phone": "(318) 336-5112"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.696742,32.038174]
+      },
+      "properties": {
+        "Parish": "DeSoto",
+        "Facility": "Brookshires Pharmacy #091",
+        "Address": "1117 Polk Street, Mansfield, LA",
+        "Website": "https://www.brookshires.com/stores/mansfield-91/6418",
+        "Phone": "(318) 871-2976"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.128604,30.581838]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Walgreens Pharmacy #13875",
+        "Address": "6485 Groom Road, Baker, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.015028,30.406403]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Albertsons/Savon #3713",
+        "Address": "15232 George O'Neal Road, Baton Rouge, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons3713",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.008574,30.357554]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Albertsons/Savon #3747",
+        "Address": "15128 Airline Highway, Baton Rouge, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons3747",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.140187,30.445041]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Albertsons/Savon #3750",
+        "Address": "4857 Government Street, Baton Rouge, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons3750",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.141056,30.421924]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Albertsons/Savon #709",
+        "Address": "2950 College Drive, Baton Rouge, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons0709",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.114878,30.433607]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Bocage Pharmacy Centre, Inc.",
+        "Address": "7150 Jefferson Highway, Baton Rouge, LA",
+        "Website": "https://www.bocagepharmacycentre.com/",
+        "Phone": "(225) 364-2847"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.156185,30.450026]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "CareSouth, Capitol City Family Health Baton Rouge #2",
+        "Address": "3140 Florida Street, Baton Rouge, LA",
+        "Website": "https://www.caresouth.org/locations/baton-rouge/",
+        "Phone": "(225) 650-2000"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.116984,30.474088]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Genoa Healthcare Pharmacy #10620",
+        "Address": "2751 Wooddale Boulevard, Baton Rouge, LA",
+        "Website": "https://www.genoahealthcare.com/locations/louisiana/",
+        "Phone": "(225) 362-5342"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.090621,30.419259]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Lagniappe Pharmacy #3",
+        "Address": "3490 Drusilla Lane, Baton Rouge, LA",
+        "Website": "https://www.lagniapperx.com/locations",
+        "Phone": "(225) 367-6488"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.101838,30.446956]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "RKM Primary Care - Livingston",
+        "Address": "455 East Airport Ave., Baton Rouge, LA",
+        "Website": "https://rkmcare.org/",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.112244,30.398036]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "The Baton Rouge Clinic",
+        "Address": "7373 Perkins Road, Baton Rouge, LA",
+        "Website": "https://batonrougeclinic.com/hours/",
+        "Phone": "(225) 246-9240"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.153407,30.443844]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Walgreens #02995",
+        "Address": "3550 Government Street, Baton Rouge, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.152575,30.498954]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Walgreens #2982",
+        "Address": "5450 Plank Road, Baton Rouge, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.109514,30.430357]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Walgreens #3399",
+        "Address": "7620 Jefferson Highway, Baton Rouge, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.123346,30.40586]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Prescriptions to Geaux #2",
+        "Address": "6251 Perkins Road, Baton Rouge, LA",
+        "Website": "https://www.rxtogeaux.com/perkins",
+        "Phone": "(225) 364-4337; (225) 361-1392"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.998886,30.517608]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Bellingrath Pharmacy",
+        "Address": "17070 Greenwell Springs Road, Greenwell Spring, LA",
+        "Website": "https://www.bellingrathpharmacy.com/contact",
+        "Phone": "(225) 508-4977"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.158086,30.650116]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Dry's Pharmacy",
+        "Address": "4344 Church Street, Zachary, LA",
+        "Website": "https://dryspharmacy.com/",
+        "Phone": "(225) 654-1175"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.180829,30.652792]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Medical Pharmacy West",
+        "Address": "2250 Church Street, Zachary, LA",
+        "Website": "http://medicalpharmacyla.com/contact.php",
+        "Phone": "(225) 658-8101"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.137481,30.650868]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Southeast Community Health - Zachary",
+        "Address": "6351 Main Street, Zachary, LA",
+        "Website": "https://www.shchc.org/locations",
+        "Phone": "(225) 306-2000"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.110031,30.396623]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Albertons/Savon #1311",
+        "Address": "7515 Perkins Road, Baton Rouge, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons1311",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.150935,30.448833]
+      },
+      "properties": {
+        "Parish": "East Baton Rouge",
+        "Facility": "Open Health Care Clinics",
+        "Address": "3801 North Boulevard, Baton Rouge, LA",
+        "Website": "https://www.ohcc.org/location",
+        "Phone": "(225) 655-6422"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.171153,32.808943]
+      },
+      "properties": {
+        "Parish": "East Carroll",
+        "Facility": "Fred's Pharmacy #3958",
+        "Address": "303 N Hood Steret, Lake Providence, LA",
+        "Website": "https://www.facebook.com/expressrxlakeprovidence/",
+        "Phone": "(318) 559-2433"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.009596,30.857448]
+      },
+      "properties": {
+        "Parish": "East Feliciana",
+        "Facility": "Curry Pharmacy",
+        "Address": "10463 Plank Road, Clinton, LA",
+        "Website": "https://www.currypharmacy-clinton.com/clinton-location",
+        "Phone": "(225) 953-7198"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.214925,30.837416]
+      },
+      "properties": {
+        "Parish": "East Feliciana",
+        "Facility": "McDonald Pharmacy",
+        "Address": "1701 Charter Street, Jackson, LA",
+        "Website": "https://www.facebook.com/mcdonaldpharmacy/",
+        "Phone": "(225) 634-2470"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.022377,30.86496]
+      },
+      "properties": {
+        "Parish": "East Feliciana",
+        "Facility": "RKM Primary Care - East Baton Rouge",
+        "Address": "11990 Jackson Street, Clinton, LA",
+        "Website": "https://rkmcare.org/",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.022377,30.86496]
+      },
+      "properties": {
+        "Parish": "East Feliciana",
+        "Facility": "RKM Primary Care - Loranger",
+        "Address": "11990 Jackson Street, Clinton, LA",
+        "Website": "https://rkmcare.org/",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.022377,30.86496]
+      },
+      "properties": {
+        "Parish": "East Feliciana",
+        "Facility": "RKM Primary Care - West Baton Rouge",
+        "Address": "11990 Jackson Street, Clinton, LA",
+        "Website": "https://rkmcare.org/",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.419719,30.636755]
+      },
+      "properties": {
+        "Parish": "Evangeline",
+        "Facility": "Reed's Family Pharmacy",
+        "Address": "1009 Sixth Street, Mamou, LA",
+        "Website": "https://www.facebook.com/reedspharmacyrx/",
+        "Phone": "(337) 550-4407"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.27424,30.68829]
+      },
+      "properties": {
+        "Parish": "Evangeline",
+        "Facility": "Evangeline Drug Store",
+        "Address": "10 W Main Street, Ville Platte, LA",
+        "Website": "nan",
+        "Phone": "(337) 363-3456"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.25744,30.69275]
+      },
+      "properties": {
+        "Parish": "Evangeline",
+        "Facility": "Thrifty Way Pharmacy of Ville Platte",
+        "Address": "1011 W Lincoln Road, Ville Platte, LA",
+        "Website": "mailto:twpharm@yahoo.com",
+        "Phone": "(337) 831-3628"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.719684,32.165446]
+      },
+      "properties": {
+        "Parish": "Franklin",
+        "Facility": "K & S Drugs",
+        "Address": "802 Adams Street, Winnsboro, LA",
+        "Website": "http://www.kandsdrugs.com/",
+        "Phone": "(318) 435-7858"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.728448,32.180922]
+      },
+      "properties": {
+        "Parish": "Franklin",
+        "Facility": "Walmart Pharmacy #976/Winnsboro",
+        "Address": "3360 Front Street, Winnsboro, LA",
+        "Website": "https://www.walmart.com/store/976-winnsboro-la",
+        "Phone": "(318) 435-9011"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.69008,31.52377]
+      },
+      "properties": {
+        "Parish": "Grant",
+        "Facility": "Grant Community Health Center",
+        "Address": "340 Webb Smith Drive, Colfax, LA",
+        "Website": "https://docs.google.com/forms/d/e/1FAIpQLScoSyXmUE6w-llD",
+        "Phone": "(318) 627-5021"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.405218,31.46586]
+      },
+      "properties": {
+        "Parish": "Grant",
+        "Facility": "East Grant Community Health Center",
+        "Address": "9465 US Highway 165, Pollock, LA",
+        "Website": "https://docs.google.com/forms/d/e/1FAIpQLScoSyXmUE6w-llD",
+        "Phone": "(318) 310-2510"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.811115,29.988471]
+      },
+      "properties": {
+        "Parish": "Iberia",
+        "Facility": "Iberia Comprehensive Community Health Cen",
+        "Address": "806 Jefferson Terrace Boulevar, New Iberia, LA",
+        "Website": "https://www.icchc.org/contact",
+        "Phone": "(337) 365-4945"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.792664,30.007417]
+      },
+      "properties": {
+        "Parish": "Iberia",
+        "Facility": "L & M Pharmacy",
+        "Address": "1033 Andre Street, New Iberia, LA",
+        "Website": "https://www.lmpharmacy.com/contact",
+        "Phone": "(337) 365-1411"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.819031,29.986454]
+      },
+      "properties": {
+        "Parish": "Iberia",
+        "Facility": "Super 1 Pharmacy #621",
+        "Address": "939 S Lewis Street, New Iberia, LA",
+        "Website": "https://www.super1foods.com/stores/new-iberia-621/6037",
+        "Phone": "(337) 364-1368"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.83243,30.019803]
+      },
+      "properties": {
+        "Parish": "Iberia",
+        "Facility": "Walgreens #17524",
+        "Address": "1150 W St. Peter Street, New Iberia, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.815633,29.985693]
+      },
+      "properties": {
+        "Parish": "Iberia",
+        "Facility": "Walmart Pharmacy #533/New Iberia",
+        "Address": "1205 E Admiral Doyle Drive, New Iberia, LA",
+        "Website": "https://www.walmart.com/store/533-new-iberia-la",
+        "Phone": "(337) 364-3841"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.798216,30.00111]
+      },
+      "properties": {
+        "Parish": "Iberia",
+        "Facility": "Walmart Pharmacy #5773/New Iberia",
+        "Address": "1201 Parkview Drive, New Iberia, LA",
+        "Website": "https://www.walmart.com/store/5773-new-iberia-la",
+        "Phone": "(337) 551-6570"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.233077,30.286383]
+      },
+      "properties": {
+        "Parish": "Iberville",
+        "Facility": "Goudeau's Pharmacy",
+        "Address": "57930 LaBauve Avenue, Plaquemine, LA",
+        "Website": "https://www.goudeauspharmacy.com/hours-location",
+        "Phone": "(225) 687-4349"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.22702,30.28271]
+      },
+      "properties": {
+        "Parish": "Iberville",
+        "Facility": "Walgreens Pharmacy #21157",
+        "Address": "24555 Highway 1, Plaquemine, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.1473,30.1681]
+      },
+      "properties": {
+        "Parish": "Iberville",
+        "Facility": "Viallon Drug Co.",
+        "Address": "32555 Bowie Street, White Castle, LA",
+        "Website": "https://viallondrug.com/contact",
+        "Phone": "(225) 545-2402"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.729102,32.270164]
+      },
+      "properties": {
+        "Parish": "Jackson",
+        "Facility": "Mercy Medical Health Center",
+        "Address": "4633 Quitman Highway, Hodge, LA",
+        "Website": "https://www.facebook.com/mercymedicalllc/",
+        "Phone": "(318) 259-1100"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.712457,32.241047]
+      },
+      "properties": {
+        "Parish": "Jackson",
+        "Facility": "Mitchell's Pharmacy",
+        "Address": "202 E Main Street, Jonesboro, LA",
+        "Website": "https://www.mitchellspharmacy.com/contact",
+        "Phone": "(318) 259-7466"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.05133,29.912222]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Carr Drugs #2",
+        "Address": "91 Westbank Expressway, Gretna, LA",
+        "Website": "https://www.carrdrugs.com/locations",
+        "Phone": "(504) 366-1200"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.02756,29.884437]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Ochsner Pharmacy and Wellness West Bank",
+        "Address": "2500 Belle Chasse Highway, Gretna, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-ochsne",
+        "Phone": "(504) 595-8180"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.061446,29.90641]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Priority Health Care",
+        "Address": "12a Westbank Expressway, Gretna, LA",
+        "Website": "https://www.priorityhealthcare.org/pharmacy",
+        "Phone": "(504) 509-5442"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.20265,29.93557]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Ciolino Drugs",
+        "Address": "7335 Jefferson Highway, Harahan, LA",
+        "Website": "https://www.ciolinodrugs.com/",
+        "Phone": "(504) 602-9744"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.21051,29.93694]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Walgreens Pharmacy #17199",
+        "Address": "8225 Jefferson Highway, Harahan, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.04819,29.876259]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Walgreens #3156",
+        "Address": "1556 Lapalco Boulevard, Harvey, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.08837,29.89721]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Westbank Pharmacy",
+        "Address": "3709 Westbank Expressway, Harvey, LA",
+        "Website": "nan",
+        "Phone": "(504) 340-0777"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.18179,29.95646]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "LaPharmacy",
+        "Address": "839 S Clearview Parkway, Jefferson, LA",
+        "Website": "https://mylapharmacy.com/contact/",
+        "Phone": "(504) 581-8876"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.237409,30.025511]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "All Saints Pharmacy",
+        "Address": "2124 38th Street, Kenner, LA",
+        "Website": "https://www.allsaintspharmacy.com/contact",
+        "Phone": "(504) 443-1294"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.23389,30.018551]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Comeaux Pharmacy",
+        "Address": "2305 West Esplanade Avenue, Kenner, LA",
+        "Website": "https://www.comeauxpharmacy.com/ ",
+        "Phone": "(504) 305-1745"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.239429,30.024095]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "DePaul Community Health Centers - Kenner",
+        "Address": "3715 Williams Boulevard, Kenner, LA",
+        "Website": "https://www.depaulcommunityhealthcenters.org/locations",
+        "Phone": "(504) 468-4437"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.270791,30.024552]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Ochsner Pharmacy and Wellness Kenner",
+        "Address": "200 W Esplanade Avenue, Kenner, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-ochsne",
+        "Phone": "(504) 464-8250"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.238132,30.030938]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Walgreens Pharmacy #12924",
+        "Address": "4100 Williams Boulevard, Kenner, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.10091,29.89354]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "JeffCare West Jefferson Health Center",
+        "Address": "5001 West Bank Expressway, Marrero, LA",
+        "Website": "https://www.jphsa.org/jeffcare",
+        "Phone": "(504) 349-8833"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.098498,29.903608]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Rose's Pharmacy",
+        "Address": "4704 4th Street, Marrero, LA",
+        "Website": "nan",
+        "Phone": "(504) 301-2900"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.158826,30.013278]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "A-1 Pharmacy Metairie, LLC",
+        "Address": "3501 Severn Avenue, Metairie, LA",
+        "Website": "https://a1dp.com/locations/metairie",
+        "Phone": "(504) 875-2330"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.16301,30.014051]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Chateau Drugs",
+        "Address": "3544 W Esplanade Avenue, Metairie, LA",
+        "Website": "http://www.chateaudrugsrx.com/",
+        "Phone": "(504) 889-2300"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1554,29.975365]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Depaul CHC - Metairie",
+        "Address": "111 N Causeway Boulevard, Metairie, LA",
+        "Website": "https://www.depaulcommunityhealthcenters.org/locations",
+        "Phone": "(504) 482-0084"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.163361,29.997144]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "JeffCare East Jefferson Health Center",
+        "Address": "3616 S I-10 Service Road West, Metairie, LA",
+        "Website": "https://www.jphsa.org/jeffcare",
+        "Phone": "(504) 838-5257"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.135901,30.002091]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "NOLA Discount Pharmacy of Metairie",
+        "Address": "1107 Veterans Boulevard, Metairie, LA",
+        "Website": "https://www.nolapharmacy.com/locations/veterans-location",
+        "Phone": "(504) 835-6060"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.20082,30.01684]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Vinnie's Pharmacy",
+        "Address": "5004 West Esplanade Avenue, Metairie, LA",
+        "Website": "https://www.vinniesrx.com/",
+        "Phone": "(504) 420-7979"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.178786,29.976015]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Walgreens #15571",
+        "Address": "4501 Airline Drive, Metairie, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.218269,29.958147]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Walgreens #13658",
+        "Address": "9705 Jefferson Highway, River Ridge, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.144389,29.897785]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "Walgreens #5230",
+        "Address": "818 Westbank Expressway, Westwego, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2182,29.91102]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "InclusivCare RFK Jean Lafitte Clinic",
+        "Address": "3932 U. S. Highway 90, Avondale, LA",
+        "Website": "https://jchcc.org/",
+        "Phone": "(504) 689-3300"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2182,29.91102]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "JCHCC InclusivCare - Avondale",
+        "Address": "3932 U. S. Highway 90, Avondale, LA",
+        "Website": "https://jchcc.org/",
+        "Phone": "(504) 436-2223"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.239849,30.003021]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "JCHCC InclusivCare - Kenner",
+        "Address": "2552 Williams Boulevard, Kenner, LA",
+        "Website": "https://jchcc.org/",
+        "Phone": "(504) 463-3002"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.12661,29.882924]
+      },
+      "properties": {
+        "Parish": "Jefferson",
+        "Facility": "JCHCC InclusivCare - Marrero",
+        "Address": "7017 Lapalco Boulevard, Marrero, LA",
+        "Website": "https://jchcc.org/",
+        "Phone": "(504) 341-4006"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.663349,30.240968]
+      },
+      "properties": {
+        "Parish": "Jefferson Davis",
+        "Facility": "Walgreens #10577",
+        "Address": "1804 Elton Road, Jennings, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.655565,30.244317]
+      },
+      "properties": {
+        "Parish": "Jefferson Davis",
+        "Facility": "Walmart Pharmacy #386/Jennings",
+        "Address": "303 E Interstate Drive, Jennings, LA",
+        "Website": "https://www.walmart.com/store/386-jennings-la",
+        "Phone": "(337) 824-9010"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.948675,30.139874]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Albertsons/Savon #2756",
+        "Address": "1210 Albertsons Parkway, Broussard, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons2756 ",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.963749,30.148264]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Towne Pharmacy",
+        "Address": "103 E Main Street, Broussard, LA",
+        "Website": "https://www.mytownepharmacy.com/contact",
+        "Phone": "(337) 839-8880"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.944635,30.14137]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Walgreens Pharmacy #10126",
+        "Address": "105 St. Nazaire Road, Broussard, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.040386,30.32137]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Melancon Pharmacy, Inc.",
+        "Address": "730 Veterans Drive, Carencro, LA",
+        "Website": "nan",
+        "Phone": "(337) 896-8434"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.185795,30.235821]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Duson's Cashway Pharmacy",
+        "Address": "110 W First Street, Duson, LA",
+        "Website": "https://cashwayinscott.com/",
+        "Phone": "(337) 935-6439"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.05723,30.219948]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Genoa Healthcare Pharmacy #20172",
+        "Address": "302 Dulles Drive, Lafayette, LA",
+        "Website": "https://www.genoahealthcare.com/locations/louisiana/",
+        "Phone": "(337) 326-5710"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.030863,30.244594]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Medicine Bin Plus",
+        "Address": "1105 W Willow Street, Lafayette, LA",
+        "Website": "nan",
+        "Phone": "(337) 408-8800"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.09338,30.152148]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Neighbors Pharmacy",
+        "Address": "6770 Johnston Street, Lafayette, LA",
+        "Website": "https://neighborspharmacy.com/contact-us/",
+        "Phone": "(337) 706-7706"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.074223,30.184142]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Stafford HealthCare Walk-in Clinic",
+        "Address": "207 Westmark Boulevard, Lafayette, LA",
+        "Website": "http://www.staffordclinic.com/",
+        "Phone": "(337) 981-6811"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.065776,30.172806]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Super 1 Pharmacy #623",
+        "Address": "3747 Ambassador Caffery, Lafayette, LA",
+        "Website": "https://www.super1foods.com/stores/lafayette-623/6039",
+        "Phone": "(337) 988-2278"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.016164,30.244004]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Super 1 Pharmacy #627",
+        "Address": "215 W Willow Street, Lafayette, LA",
+        "Website": "https://www.super1foods.com/stores/lafayette-627/6043",
+        "Phone": "(337) 572-9053"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.000871,30.225174]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Surrey Street Community Health Center",
+        "Address": "1004 Surrey Street, Lafayette, LA",
+        "Website": "https://www.icchc.org/lafayetter-la",
+        "Phone": "(337) 456-6768"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.094486,30.235384]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Scott Pharmacy",
+        "Address": "1000 St. Mary Street, Scott, LA",
+        "Website": "nan",
+        "Phone": "(337) 235-5216"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.110574,30.251675]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Super 1 Pharmacy #643",
+        "Address": "200 Destination Pointe Lane, Scott, LA",
+        "Website": "https://www.super1foods.com/stores/scott-643/6059",
+        "Phone": "(337) 210-2001"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.008192,30.134215]
+      },
+      "properties": {
+        "Parish": "Lafayette",
+        "Facility": "Super 1 Pharmacy #645",
+        "Address": "1500 Bonin Road, Youngsville, LA",
+        "Website": "https://www.super1foods.com/stores/youngsville-645/6061",
+        "Phone": "(337) 573-6176"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.69436,29.65187]
+      },
+      "properties": {
+        "Parish": "Lafourche",
+        "Facility": "Willow Bark Pharmacy #1",
+        "Address": "2138 Bayou Blue Road, Houma, LA",
+        "Website": "http://www.willowbarkpharmacy.com/about_us.html",
+        "Phone": "(985) 876-5502"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.35577,29.55938]
+      },
+      "properties": {
+        "Parish": "Lafourche",
+        "Facility": "Walgreens Pharmacy #17785",
+        "Address": "13998 W Main Street, Larose, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.564681,29.701759]
+      },
+      "properties": {
+        "Parish": "Lafourche",
+        "Facility": "Ochsner Pharmacy and Wellness St Anne",
+        "Address": "108 Acadia Park Drive, Raceland, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-ochsne",
+        "Phone": "(985) 297-6016"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.806758,29.784826]
+      },
+      "properties": {
+        "Parish": "Lafourche",
+        "Facility": "Life Coast Community Health Center",
+        "Address": "1101 Audubon Avenue, Thibodaux, LA",
+        "Website": "https://www.lifecoasthealth.com/",
+        "Phone": "(985) 492-6170"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.81748,29.800761]
+      },
+      "properties": {
+        "Parish": "Lafourche",
+        "Facility": "Walgreens Pharmacy #4140",
+        "Address": "195 N Canal Boulevard, Thibodaux, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.805122,29.880028]
+      },
+      "properties": {
+        "Parish": "Lafourche",
+        "Facility": "Willow Bark Pharmacy #2",
+        "Address": "606 Highway 20, Thibodaux, LA",
+        "Website": "http://www.willowbarkpharmacy.com/about_us.html",
+        "Phone": "(985) 633-2275"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.169,31.69307]
+      },
+      "properties": {
+        "Parish": "LaSalle",
+        "Facility": "Chaudhry Clinic, LLC",
+        "Address": "11809 Highway 84 West, Jena, LA",
+        "Website": "nan",
+        "Phone": "(318) 992-4133"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.717061,32.506984]
+      },
+      "properties": {
+        "Parish": "Lincoln",
+        "Facility": "PHSC Grambling Family Health Center",
+        "Address": "7604 Highway 80, Grambling, LA",
+        "Website": "https://www.phsccenter.org/locations.php",
+        "Phone": "(318) 596-1700"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.639167,32.517048]
+      },
+      "properties": {
+        "Parish": "Lincoln",
+        "Facility": "Lincoln Community Health Center",
+        "Address": "1140 South Vienna Street, Ruston, LA",
+        "Website": "https://docs.google.com/forms/d/e/1FAIpQLScoSyXmUE6w-llD",
+        "Phone": "(318) 224-7190"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.63884,32.522349]
+      },
+      "properties": {
+        "Parish": "Lincoln",
+        "Facility": "Prescription Shoppe Pharmacy Ruston",
+        "Address": "104 West Line Avenue, Ruston, LA",
+        "Website": "https://www.prescriptionshopperx.com/contact",
+        "Phone": "(318) 255-7363"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.637985,32.544804]
+      },
+      "properties": {
+        "Parish": "Lincoln",
+        "Facility": "Super 1 Pharmacy #617",
+        "Address": "1500 N Trenton Street, Ruston, LA",
+        "Website": "https://www.super1foods.com/stores/ruston-617/6033",
+        "Phone": "(318) 254-8256"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.57749,30.50418]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Albany Drugs",
+        "Address": "19067 Florida Boulevard, Albany, LA",
+        "Website": "https://www.albanydrugstore.com/contact",
+        "Phone": "(225) 567-7772"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.58236,30.49726]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "John's Pharmacy in Albany, LLC",
+        "Address": "29148 S. Montpelier Avenue, Albany, LA",
+        "Website": "https://www.johnspharmacyinalbany.com/contact/",
+        "Phone": "(225) 567-1921"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.957291,30.573527]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Bernard's Family Pharmacy",
+        "Address": "34876 Highway 1019, Denham Springs, LA",
+        "Website": "https://www.bernardsrx.com/contact",
+        "Phone": "(225) 667-4286"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.95639,30.44654]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Cypress Pharmacy",
+        "Address": "2920 South Range Avenue, Denham Springs, LA",
+        "Website": "https://cypresspharmacyla.com/about/",
+        "Phone": "(225) 998-1800"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.955818,30.482532]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Walgreens #3180",
+        "Address": "101 Florida Avenue SE, Denham Springs, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.956375,30.573531]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Walgreens Pharmacy #10400",
+        "Address": "34865 LA Highway 16, Denham Springs, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.563172,30.483629]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Southeast Community Health - Albany Pharm",
+        "Address": "30575 Old Baton Rouge Highwa, Hammond, LA",
+        "Website": "https://www.shchc.org/locations",
+        "Phone": "(225) 306-2050"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.847467,30.335876]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Chris' Pharmacy & Gifts of Port Vincent, LLC",
+        "Address": "18590 Highway 16, Port Vincent, LA",
+        "Website": "https://www.chrispharmacyandgifts.com/contact",
+        "Phone": "(225) 698-6888"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.547647,30.428744]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Springfield Drug Store",
+        "Address": "31696 Highway 22, Springfield, LA",
+        "Website": "https://www.springfielddrugstore.com/contact",
+        "Phone": "(225) 294-5045"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.861091,30.486914]
+      },
+      "properties": {
+        "Parish": "Livingston",
+        "Facility": "Walgreens #11762",
+        "Address": "10200 Florida Boulevard, Walker, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.18446,32.40144]
+      },
+      "properties": {
+        "Parish": "Madison",
+        "Facility": "Neumann's Pharmacy",
+        "Address": "1009 Johnson Street, Tallulah, LA",
+        "Website": "https://www.mygnp.com/pharmacies/neumanns-pharmacy-tal",
+        "Phone": "(318) 574-1655"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.91548,32.778129]
+      },
+      "properties": {
+        "Parish": "Morehouse",
+        "Facility": "Lee's City Drug",
+        "Address": "123 W Madison Avenue, Bastrop, LA",
+        "Website": "http://www.leescitydrug.com",
+        "Phone": "(318) 281-1344"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.884254,32.777334]
+      },
+      "properties": {
+        "Parish": "Morehouse",
+        "Facility": "Super 1 Pharmacy #603",
+        "Address": "2211 E Madison Avenue, Bastrop, LA",
+        "Website": "https://www.super1foods.com/stores/bastrop-603/6020",
+        "Phone": "(318) 281-3284"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.79283,32.77513]
+      },
+      "properties": {
+        "Parish": "Morehouse",
+        "Facility": "Morehouse Community Medical Center - Mer",
+        "Address": "108 N 16th Street, Mer Rouge, LA",
+        "Website": "https://www.communihealth.org/",
+        "Phone": "(318) 239-8010"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.102939,31.780836]
+      },
+      "properties": {
+        "Parish": "Natchitoches",
+        "Facility": "Outpatient Medical Center Natchitoches",
+        "Address": "1640 Breazealle Springs Street, Natchitoches, LA",
+        "Website": "http://www.outpatientmedical.org",
+        "Phone": "(318) 352-9299"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.108503,31.770941]
+      },
+      "properties": {
+        "Parish": "Natchitoches",
+        "Facility": "Super 1 Pharmacy #604",
+        "Address": "5696 Highway 1 Bypass, Natchitoches, LA",
+        "Website": "https://www.super1foods.com/stores/natchitoches-604/6021",
+        "Phone": "(318) 214-0050"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.096243,31.72354]
+      },
+      "properties": {
+        "Parish": "Natchitoches",
+        "Facility": "Super 1 Pharmacy #613",
+        "Address": "318 Dixie Plaza, Natchitoches, LA",
+        "Website": "https://www.super1foods.com/stores/natchitoches-613/6030",
+        "Phone": "(318) 352-3141"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.066978,31.750582]
+      },
+      "properties": {
+        "Parish": "Natchitoches",
+        "Facility": "Walmart Pharmacy #170/Natchitoches",
+        "Address": "925 Keyser Avenue, Natchitoches, LA",
+        "Website": "https://www.walmart.com/store/170-natchitoches-la",
+        "Phone": "(318) 352-1903"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.033069,29.965495]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Baptist Community Health Services/St. Claud",
+        "Address": "4209 St. Claude Avenue, New Orleans, LA",
+        "Website": "https://bchsnola.org/",
+        "Phone": "(504) 533-4999"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.077676,29.976188]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Broad Avenue Pharmacy",
+        "Address": "1400 N Broad Street, New Orleans, LA",
+        "Website": "nan",
+        "Phone": "(504) 309-4384"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.015529,29.919686]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Carr Drugs #1",
+        "Address": "3500 Holiday Drive, New Orleans, LA",
+        "Website": "https://www.carrdrugs.com/locations",
+        "Phone": "(504) 367-5724"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.085941,29.938631]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Crescent City Pharmacy",
+        "Address": "2240 Simon Bolivar Avenue, New Orleans, LA",
+        "Website": "https://crescentcitypharmacy.com/locations",
+        "Phone": "(504) 267-4100"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.056687,29.974393]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "CrescentCare Elysian Fields",
+        "Address": "1631 Elysian Fields Avenue, New Orleans, LA",
+        "Website": "https://crescentcarehealth.org/covid-19-testing-information/",
+        "Phone": "(504) 821-2601"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.097525,29.964705]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "CrescentCare Health & Wellness Center",
+        "Address": "3308 Tulane Avenue, New Orleans, LA",
+        "Website": "https://crescentcarehealth.org/",
+        "Phone": "844-315-2273"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.009344,29.93532]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Excelth Family Health - Algiers",
+        "Address": "4422 General Meyer Avenue, New Orleans, LA",
+        "Website": "https://www.excelth.com/algiers-family-health",
+        "Phone": "(504) 526-1179"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.085828,29.938371]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Genoa Healthcare Pharmacy #10916",
+        "Address": "2221 Phillip Street, New Orleans, LA",
+        "Website": "https://www.genoahealthcare.com/locations/louisiana/",
+        "Phone": "(504) 571-9120"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.929319,30.032009]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Michoud Pharmacy",
+        "Address": "4646 Michoud Boulevard, New Orleans, LA",
+        "Website": "https://michoudpharmacy.com/contact/",
+        "Phone": "(504) 435-1422"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.931343,30.03048]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Noela Health Care Center",
+        "Address": "13085 Chef Menteur Highway, New Orleans, LA",
+        "Website": "https://www.noelachc.org/contact/",
+        "Phone": "(504) 255-8665"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.104008,29.938548]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Ochsner Pharmacy and Wellness Baptist",
+        "Address": "2820 Napoleon Aveune, New Orleans, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-ochsne",
+        "Phone": "(504) 703-9640"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.076035,30.02024]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Ochsner Pharmacy and Wellness Lake Terrac",
+        "Address": "1532 Robert E Lee Boulevard, New Orleans, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-lake-te",
+        "Phone": "(504) 226-2033"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.10083,29.950446]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "South Broad Community Health Center",
+        "Address": "3300 S Broad Street, New Orleans, LA",
+        "Website": "https://accesshealthla.org/location/south-broad-new-orleans/",
+        "Phone": "(504) 309-5061"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.966498,30.018195]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "St. Bernard Drugs LLC #3",
+        "Address": "10200 Chef Menteur Highway, New Orleans, LA",
+        "Website": "https://www.stbernarddrugs.com/contact-us",
+        "Phone": "(504) 242-1100"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.074357,29.930935]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "St. Thomas Community Health Center - Maga",
+        "Address": "1936 Magazine Street, New Orleans, LA",
+        "Website": "https://www.stthomaschc.org/locations/donald-t-erwin-center",
+        "Phone": "(504) 529-5558"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.058694,29.999715]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens #11414",
+        "Address": "3216 Gentilly Boulevard, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.116639,29.920711]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens #15199",
+        "Address": "5518 Magazine Street, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.087076,29.924115]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens #2640",
+        "Address": "3227 Magazine Street, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.077835,29.936349]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens #5040",
+        "Address": "1801 St. Charles Avenue, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.063352,29.956584]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens Pharmacy #05551",
+        "Address": "619 Decatur Street, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.10638,30.00435]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens Pharmacy #17089",
+        "Address": "760 Harrison Avenue, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0608,30.02213]
+      },
+      "properties": {
+        "Parish": "Orleans",
+        "Facility": "Walgreens Pharmacy #3558",
+        "Address": "6201 Elysian Fields Avenue, New Orleans, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.110529,32.520778]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Aron's Pharmacy",
+        "Address": "1209 North 18th Street, Monroe, LA",
+        "Website": "nan",
+        "Phone": "(318) 323-2242"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.108142,32.535137]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Bienville Med Center (Community Pharmacy",
+        "Address": "2123 Forsythe Avenue, Monroe, LA",
+        "Website": "https://mycommunityrx.com/covid-19-vaccine/",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.116271,32.526408]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Brookshires Pharmacy #034",
+        "Address": "1801 North 18th Street, Monroe, LA",
+        "Website": "https://www.brookshires.com/stores/monroe-34/6364",
+        "Phone": "(318) 340-6470"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.106393,32.49039]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "PHSC - S.D. HIll",
+        "Address": "850 South 2nd Street, Monroe, LA",
+        "Website": "https://www.phsccenter.org/alerts.php?id=8",
+        "Phone": "(318) 651-0041"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.08768,32.52019]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "PHSC - Women's Health Clinic",
+        "Address": "2915 Betin Street, Monroe, LA",
+        "Website": "https://www.phsccenter.org/alerts.php?id=8",
+        "Phone": "(318) 651-9945"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.08768,32.52019]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "PHSC Desiard Primary Care Clinic",
+        "Address": "2913 Betin Street, Monroe, LA",
+        "Website": "https://www.phsccenter.org/locations.php",
+        "Phone": "(318) 388-1250"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.113586,32.499967]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "RxONE St. Francis",
+        "Address": "309 Jackson Street, Monroe, LA",
+        "Website": "https://stfran.com/services/pharmacy",
+        "Phone": "(877) 612-8653"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.09147,32.52458]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Walgreens #9086",
+        "Address": "2801 Louisville Avenue, Monroe, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.044172,32.677233]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Parkway Pharmacy",
+        "Address": "10374 Highway 165 North, Sterlington, LA",
+        "Website": "https://www.parkway-pharmacy.com/contact-us",
+        "Phone": "(318) 812-2305"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.149847,32.516643]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Super 1 Pharmacy #602",
+        "Address": "2907 Cypress Street, W. Monroe, LA",
+        "Website": "https://www.super1foods.com/stores/west-monroe-602/6019",
+        "Phone": "(318) 325-3142"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.15009,32.5157]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "PHSC/West Monroe Family Health Center",
+        "Address": "301 McMillan Drive, West Monroe, LA",
+        "Website": "https://www.phsccenter.org/alerts.php?id=8",
+        "Phone": "(318) 737-7616"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.157572,32.517734]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Walgreens #06274",
+        "Address": "3304 Cypress Street, West Monroe, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.191604,32.515547]
+      },
+      "properties": {
+        "Parish": "Ouachita",
+        "Facility": "Walgreens #10510",
+        "Address": "5349 Cypress Street, West Monroe, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.71244,29.49417]
+      },
+      "properties": {
+        "Parish": "Plaquemines",
+        "Facility": "Delta Drugs of Port Sulphur",
+        "Address": "27136 Highway 23, Port Sulphur, LA",
+        "Website": "nan",
+        "Phone": "(504) 564-3141"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.679168,30.876245]
+      },
+      "properties": {
+        "Parish": "Pointe Coupee",
+        "Facility": "Innis Community Health Center",
+        "Address": "6450 LA Highway 1, Innis, LA",
+        "Website": "nan",
+        "Phone": "(225) 492-3775"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.464855,30.686708]
+      },
+      "properties": {
+        "Parish": "Pointe Coupee",
+        "Facility": "Super 1 Pharmacy #648",
+        "Address": "420 Hospital Road, New Roads, LA",
+        "Website": "https://www.super1foods.com/stores/new-roads-648/6064",
+        "Phone": "(225) 638-5151"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.464629,30.688639]
+      },
+      "properties": {
+        "Parish": "Pointe Coupee",
+        "Facility": "Walmart Pharmacy #1196/New Roads",
+        "Address": "460 Hospital Road, New Roads, LA",
+        "Website": "https://www.walmart.com/store/1196-new-roads-la",
+        "Phone": "(225) 638-8616"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.463416,31.273966]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Albertsons/Savon #3215",
+        "Address": "2265 S Macarthur Drive, Alexandria, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons3215",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.47433,31.28383]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Kroger Pharmacy #381",
+        "Address": "1422 MacArthur Drive, Alexandria, LA",
+        "Website": "https://www.kroger.com/rx/guest/get-vaccinated",
+        "Phone": "(318) 442-0512"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.503569,31.296688]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Rapides PHU (@ Rapides Parish Coliseum)",
+        "Address": "5600 Coliseum Boulevard, Alexandria, LA",
+        "Website": "https://laredcap.oph.dhh.la.gov/surveys/?s=NL487F89T9",
+        "Phone": "(318) 487-5282"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.426336,31.285966]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Rapides Primary Health Care Center, Inc.",
+        "Address": "1217 Willow Glen River Road, Alexandria, LA",
+        "Website": "http://www.rphcc.org/contact/",
+        "Phone": "(318) 487-4400"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.480896,31.296916]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Super 1 Pharmacy #601",
+        "Address": "604 MacArthur Drive, Alexandria, LA",
+        "Website": "https://www.super1foods.com/stores/alexandria-601/6018",
+        "Phone": "(318) 442-5710"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.480676,31.278466]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Walgreens #2012",
+        "Address": "4444 Jackson Street, Alexandria, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.459477,31.2833]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Walgreens Pharmacy #1657",
+        "Address": "3333 Masonic Drive, Alexandria, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.230396,31.390841]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Louisiana Quick Care",
+        "Address": "12805 Highway 28 East, Pineville, LA",
+        "Website": "nan",
+        "Phone": "(318) 466-5151"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.414671,31.35609]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Super 1 Pharmacy #609",
+        "Address": "2951 Cottingham Expressway, Pineville, LA",
+        "Website": "https://www.super1foods.com/stores/pineville-609/6026",
+        "Phone": "(318) 641-7131"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.410575,31.363693]
+      },
+      "properties": {
+        "Parish": "Rapides",
+        "Facility": "Walgreens #9182",
+        "Address": "3400 Military Highway, Pineville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.34379,32.020503]
+      },
+      "properties": {
+        "Parish": "Red River",
+        "Facility": "Christus Coushatta Health Care Center",
+        "Address": "1635 Marvel Street, Coushatta, LA",
+        "Website": "https://www.christushealth.org/coushatta",
+        "Phone": "(318) 932-2184"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.49348,32.455986]
+      },
+      "properties": {
+        "Parish": "Richland",
+        "Facility": "Delhi Community Health Center",
+        "Address": "109 Elm Street, Delhi, LA",
+        "Website": "http://www.dchc-delhi.com/contact-.html",
+        "Phone": "(318) 878-6650"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.493304,32.453471]
+      },
+      "properties": {
+        "Parish": "Richland",
+        "Facility": "Delhi Health Center Pharmacy",
+        "Address": "414 Broadway Street, Delhi, LA",
+        "Website": "https://www.facebook.com/delhihealthcenterla/?ref=py_c",
+        "Phone": "(318) 878-5104"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.760772,32.461476]
+      },
+      "properties": {
+        "Parish": "Richland",
+        "Facility": "Rayville Family Clinic",
+        "Address": "1962 Julia Street, Rayville, LA",
+        "Website": "nan",
+        "Phone": "(318) 728-8833"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.489366,31.566672]
+      },
+      "properties": {
+        "Parish": "Sabine",
+        "Facility": "Walgreens #12306",
+        "Address": "280 San Antionio Avenue, Many, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.478448,31.567296]
+      },
+      "properties": {
+        "Parish": "Sabine",
+        "Facility": "Walmart Pharmacy #876/Many",
+        "Address": "25800 Highway 171, Many, LA",
+        "Website": "https://www.walmart.com/store/876-many-la",
+        "Phone": "(318) 256-6378"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.985269,29.955639]
+      },
+      "properties": {
+        "Parish": "St. Bernard",
+        "Facility": "St. Bernard Community Health Center",
+        "Address": "8050 W. Judge Perez Drive, Chalmette, LA",
+        "Website": "https://accesshealthla.org/location/st-bernard-chalmette/",
+        "Phone": "(504) 281-2800"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.964621,29.942349]
+      },
+      "properties": {
+        "Parish": "St. Bernard",
+        "Facility": "Walgreens #7415",
+        "Address": "100 W Judge Perez Drive, Chalmette, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.986012,29.9579]
+      },
+      "properties": {
+        "Parish": "St. Bernard",
+        "Facility": "Walmart Pharmacy #909/Chalmette",
+        "Address": "8101 W Judge Perez Drive, Chalmette, LA",
+        "Website": "https://www.walmart.com/store/909-chalmette-la",
+        "Phone": "(504) 278-2027"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.922323,29.936037]
+      },
+      "properties": {
+        "Parish": "St. Bernard",
+        "Facility": "Walgreens #13586",
+        "Address": "4141 E Judge Perez Drive, Meraux, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.387907,29.901651]
+      },
+      "properties": {
+        "Parish": "St. Charles",
+        "Facility": "Walgreens Pharmacy #9861",
+        "Address": "13500 Highway 90, Boutte, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.364112,29.977557]
+      },
+      "properties": {
+        "Parish": "St. Charles",
+        "Facility": "NOLA Discount Pharmacy of Destrahan",
+        "Address": "3001 Ormond Boulevard, Destrehan, LA",
+        "Website": "https://www.nolapharmacy.com/locations/destrehan-location",
+        "Phone": "(985) 307-0800"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.367517,29.946388]
+      },
+      "properties": {
+        "Parish": "St. Charles",
+        "Facility": "Ochsner Pharmacy and Wellness Destrehan",
+        "Address": "13100 River Road, Destrehan, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-destreh",
+        "Phone": "(985) 240-4610"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.369416,29.923169]
+      },
+      "properties": {
+        "Parish": "St. Charles",
+        "Facility": "St. Charles Community Health Center - Luling",
+        "Address": "843 Milling Avenue, Luling, LA",
+        "Website": "https://accesshealthla.org/location/st-charles-luling/",
+        "Phone": "(985) 785-5800"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.75244,30.866592]
+      },
+      "properties": {
+        "Parish": "St. Helena",
+        "Facility": "Greensburg Family Pharmacy",
+        "Address": "6166 Highway 10, Greensburg, LA",
+        "Website": "https://www.greensburgfamilypharmacy.com/contact",
+        "Phone": "(225) 222-4279"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.70003,30.82744]
+      },
+      "properties": {
+        "Parish": "St. Helena",
+        "Facility": "Southeast Community Health - Greensburg",
+        "Address": "490 Sitman Street, Greensburg, LA",
+        "Website": "https://www.shchc.org/locations",
+        "Phone": "(225) 306-2070"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.695058,30.064096]
+      },
+      "properties": {
+        "Parish": "St. James",
+        "Facility": "Gem Drugs - Gramercy",
+        "Address": "1635 Highway 3125, Gramercy, LA",
+        "Website": "https://www.gemdrugs.com/",
+        "Phone": "(225) 869-3651"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.69655,30.06354]
+      },
+      "properties": {
+        "Parish": "St. James",
+        "Facility": "SouthStar Urgent Care Gramercy",
+        "Address": "1665 LA Highway 3125, Gramercy, LA",
+        "Website": "https://hulinhealth.com/index.cfm?e=inner4&itemcategory=91",
+        "Phone": "(337) 465-4600"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.501466,30.072646]
+      },
+      "properties": {
+        "Parish": "St. John the Baptist",
+        "Facility": "Walgreens #5801",
+        "Address": "1815 W Airline Highway, La Place, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.495484,30.075375]
+      },
+      "properties": {
+        "Parish": "St. John the Baptist",
+        "Facility": "Medicine Shoppe #1030",
+        "Address": "70 Dominican Drive, LaPlace, LA",
+        "Website": "https://laplace.medicineshoppe.com/contact",
+        "Phone": "(985) 652-1245"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.501223,30.073943]
+      },
+      "properties": {
+        "Parish": "St. John the Baptist",
+        "Facility": "The Urgent Care - Laplace",
+        "Address": "113 Belle Terre Boulevard, Laplace, LA",
+        "Website": "https://www.theurgentcare.com/contact-us/",
+        "Phone": "(985) 212-8631"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.552037,30.054945]
+      },
+      "properties": {
+        "Parish": "St. John the Baptist",
+        "Facility": "Gem Drugs - Reserve",
+        "Address": "139 Central Avenue, Reserve, LA",
+        "Website": "https://www.gemdrugs.com/",
+        "Phone": "(985) 536-3957"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.428202,30.487732]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "Maple Avenue Pharmacy",
+        "Address": "1200 W Maple Avenue, Eunice, LA",
+        "Website": "https://www.mapleavepharmacy.com/contact",
+        "Phone": "(337) 457-5216"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.4343,30.49506]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "Super 1 Pharmacy #637",
+        "Address": "1800 W Laurel Street, Eunice, LA",
+        "Website": "https://www.super1foods.com/stores/eunice-637/6053",
+        "Phone": "(337) 457-0878"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.07586,30.54336]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "Ken's Thrifty Way Pharmacy",
+        "Address": "517 E Prudhomme Street, Opelousas, LA",
+        "Website": "https://www.kensthriftyway.com/locations/opelousas",
+        "Phone": "(337) 942-7551"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.082836,30.516221]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "Lagniappe Pharmacy #6",
+        "Address": "1717 S Union Street, Opelousas, LA",
+        "Website": "nan",
+        "Phone": "(337) 948-7703"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.08629,30.507479]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "Super 1 Pharmacy #636",
+        "Address": "2418 South Union Street, Opelousas, LA",
+        "Website": "https://www.super1foods.com/stores/opelousas-636/6052",
+        "Phone": "(337) 942-3674"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.078625,30.470187]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "The Family Clinic, Opelousas",
+        "Address": "3921 I-49 S Service Road, Opelousas, LA",
+        "Website": "nan",
+        "Phone": "(337) 942-5706"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.09903,30.53516]
+      },
+      "properties": {
+        "Parish": "St. Landry",
+        "Facility": "Thrifty Way at The Cottage",
+        "Address": "1406 W Landry Street, Opelousas, LA",
+        "Website": "http://thriftywayatthecottage.com",
+        "Phone": "(337) 942-2653"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.849149,30.301678]
+      },
+      "properties": {
+        "Parish": "St. Martin",
+        "Facility": "Bon Ami Pharmacy",
+        "Address": "2825 Grand Point Highway 9, Breaux Bridge, LA",
+        "Website": "https://www.bonamipharmacy.com/contact",
+        "Phone": "(337) 454-6536"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.889727,30.280814]
+      },
+      "properties": {
+        "Parish": "St. Martin",
+        "Facility": "Hollier's Family Pharmacy, LLC",
+        "Address": "1456 E Bridge Street, Breaux Bridge, LA",
+        "Website": "http://hollierspharmacy.com/",
+        "Phone": "(337) 257-5022"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.901819,30.282637]
+      },
+      "properties": {
+        "Parish": "St. Martin",
+        "Facility": "Super 1 Pharmacy #646",
+        "Address": "924 Rees Street, Breaux Bridge, LA",
+        "Website": "https://www.super1foods.com/stores/breaux-bridge-646/6062",
+        "Phone": "(337) 332-6339"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.836361,30.115587]
+      },
+      "properties": {
+        "Parish": "St. Martin",
+        "Facility": "St. Martin Parish Community Health Center",
+        "Address": "317 Dernier Street, St. Martinville, LA",
+        "Website": "https://www.icchc.org/st-martinville-la",
+        "Phone": "(337) 342-2566"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.505612,29.799123]
+      },
+      "properties": {
+        "Parish": "St. Mary",
+        "Facility": "Teche Action Clinic Franklin",
+        "Address": "1115 Weber Street, Franklin, LA",
+        "Website": "nan",
+        "Phone": "(337) 828-2550"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.513861,29.813546]
+      },
+      "properties": {
+        "Parish": "St. Mary",
+        "Facility": "Walmart Pharmacy #311/Franklin",
+        "Address": "200 Northwest Boulevard, Franklin, LA",
+        "Website": "https://www.walmart.com/store/311-franklin-la",
+        "Phone": "(337) 828-4493"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.20335,29.70214]
+      },
+      "properties": {
+        "Parish": "St. Mary",
+        "Facility": "Walgreens #10975",
+        "Address": "815 Brashear Avenue, Morgan City, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.041278,30.459442]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Walgreens #11996",
+        "Address": "70997 Highway 59, Abita Springs, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.12984,30.4603]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Ochsner Pharmacy and Wellness Covington",
+        "Address": "1000 Ochsner Boulevard, Covington, LA",
+        "Website": "https://www.ochsner.org/locations/pharmacy-wellness-covingt",
+        "Phone": "(985) 871-2549"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.09746,30.492266]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Start Community Health Center",
+        "Address": "1505 N Florida Boulevard, Covington, LA",
+        "Website": "nan",
+        "Phone": "(985) 900-1626"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.08622,30.475215]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Walgreens #3990",
+        "Address": "1203 Business 190, Covington, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.110518,30.490947]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Walgreens Pharmacy #9645",
+        "Address": "73626 Highway 25, Covington, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.094743,30.395451]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Baham Pharmacy & Wellness",
+        "Address": "3916 Highway 22, Mandeville, LA",
+        "Website": "https://www.bahampharmacy.com/contact-us/",
+        "Phone": "(985) 273-5099"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.063029,30.363683]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Walgreens Pharmacy #06849",
+        "Address": "2050 Florida Street, Mandeville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.755616,30.364578]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Miley Meds Pharmacy, LLC",
+        "Address": "64288 Highway 41, Pearl River, LA",
+        "Website": "https://mileymeds.com/",
+        "Phone": "(985) 256-7222"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.72285,30.29065]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Finnan's Family Pharmacy",
+        "Address": "3044 Gause Boulevard East, Slidell, LA",
+        "Website": "https://finnansfamilypharmacy.com/contact",
+        "Phone": "(985) 288-5899"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.784066,30.272393]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Genoa Healthcare Pharmacy #20281",
+        "Address": "2331 Carey Street, Slidell, LA",
+        "Website": "https://www.genoahealthcare.com/locations/louisiana/",
+        "Phone": "(985) 718-4253"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.770114,30.290784]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Medicine Shoppe #0025",
+        "Address": "999 Robert Boulevard, Slidell, LA",
+        "Website": "https://slidell.medicineshoppe.com/contact",
+        "Phone": "(985) 643-7894"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.769353,30.284411]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Ochsner Pharmacy and Wellness Slidell Mem",
+        "Address": "1051 Gause Boulevard, Slidell, LA",
+        "Website": "https://www.ochsner.org/locations/ochsner-pharmacy-and-wel",
+        "Phone": "(985) 639-3726"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.778949,30.285476]
+      },
+      "properties": {
+        "Parish": "St. Tammany",
+        "Facility": "Walgreens #4007",
+        "Address": "1260 Front Street, Slidell, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.510775,30.72404]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Drive-In Drug Store",
+        "Address": "228 S First Street, Amite, LA",
+        "Website": "https://www.driveindrugstore.com/contact",
+        "Phone": "(985) 748-8307"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.479985,30.499704]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Albertsons/Savon #714",
+        "Address": "1801 W Thomas Street, Hammond, LA",
+        "Website": "https://www.mhealthsystem.com/Albertsons0714",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.48215,30.50082]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Channell Drugs",
+        "Address": "1812 W Thomas Street, Hammond, LA",
+        "Website": "https://www.channelldrugs.com/contact",
+        "Phone": "(985) 345-4767"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.425722,30.522467]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Genoa Healthcare Pharmacy #20043",
+        "Address": "835 Pride Drive, Hammond, LA",
+        "Website": "https://www.genoahealthcare.com/locations/louisiana/",
+        "Phone": "(985) 277-1440"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.501196,30.635633]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Pete's Family Pharmacy",
+        "Address": "539 W Railroad Avenue, Independence, LA",
+        "Website": "https://www.petesfamilypharmacy.com/contact",
+        "Phone": "(985) 878-6321"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.500222,30.636463]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Southeast Community Health - Independence",
+        "Address": "336 East Railroad Avenue, Independence, LA",
+        "Website": "https://www.shchc.org/locations",
+        "Phone": "(225) 306-2060"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.50871,30.936499]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Schilling Pharmacy",
+        "Address": "210 Avenue G, Kentwood, LA",
+        "Website": "https://www.facebook.com/Schillings-Pharmacy-Gifts-2264026",
+        "Phone": "(985) 269-1817"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.519204,30.93775]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Southeast Community Health - Kentwood Pha",
+        "Address": "721 Avenue G, Kentwood, LA",
+        "Website": "https://www.shchc.org/locations",
+        "Phone": "(225) 306-2100"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.45652,30.45354]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Floyd's Family Pharmacy",
+        "Address": "1625 Highway 51 North, Ponchatoula, LA",
+        "Website": "https://www.floydsfamilypharmacy.com/locations/ponchatoula",
+        "Phone": "(985) 386-2232"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.413832,30.44331]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Ponchatoula Family Pharmacy",
+        "Address": "19008 Highway 22, Ponchatoula, LA",
+        "Website": "https://www.ponchatoulafamilypharmacy.com/contact",
+        "Phone": "(985) 386-6556"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.343442,30.504839]
+      },
+      "properties": {
+        "Parish": "Tangipahoa",
+        "Facility": "Robert Pharmacy",
+        "Address": "44354 Highway 445, Robert, LA",
+        "Website": "mailto:robert_pharmacy@yahoo.com ",
+        "Phone": "(985) 348-1213"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.2334,31.9185]
+      },
+      "properties": {
+        "Parish": "Tensas",
+        "Facility": "Fred's Pharmacy #3861",
+        "Address": "705 Plank Road Highway 128, St. Joseph, LA",
+        "Website": "https://www.facebook.com/ExpressRxStJoseph/",
+        "Phone": "(318) 766-4563"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.23663,31.91707]
+      },
+      "properties": {
+        "Parish": "Tensas",
+        "Facility": "Tensas Community Health Center",
+        "Address": "402 Levee Street, St. Joseph, LA",
+        "Website": "https://www.tensashealth.com/home",
+        "Phone": "(318) 766-1967"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.595046,29.443855]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Wolfe's Pharmacy",
+        "Address": "5458 Highway 56, Chauvin, LA",
+        "Website": "https://www.wolfespharmacy.com/",
+        "Phone": "(985) 594-5821"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.721566,29.597596]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Peoples Drug Store",
+        "Address": "7869 Main Street, Houma, LA",
+        "Website": "https://www.peoplesdrugstoreinc.com/contact",
+        "Phone": "(985) 873-8526"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.687546,29.579615]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Pharmacy Express",
+        "Address": "1963 Prospect Boulevard, Houma, LA",
+        "Website": "https://www.facebook.com/Pharmacy-Express-1111545539351",
+        "Phone": "(985) 873-0100"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.727446,29.580445]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Start Community Health Center",
+        "Address": "235 Civic Center Blvd., Houma, LA",
+        "Website": "http://www.startcorp.org/community-health-center/houma-se",
+        "Phone": "(985) 333-2020"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.746843,29.60477]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Walgreens #7095",
+        "Address": "1435 W Tunnel Boulevard, Houma, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.69262,29.584557]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Walmart Pharmacy #3483/Houma",
+        "Address": "933 Grand Caillou Road, Houma, LA",
+        "Website": "https://www.walmart.com/store/3483-houma-la",
+        "Phone": "(985) 917-0121"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.74693,29.60688]
+      },
+      "properties": {
+        "Parish": "Terrebonne",
+        "Facility": "Walmart Pharmacy #542/Houma",
+        "Address": "1633 Martin Luther King Jr Boul, Houma, LA",
+        "Website": "https://www.walmart.com/store/542-houma-la",
+        "Phone": "(985) 851-3284"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.65657397,32.82186599]
+      },
+      "properties": {
+        "Parish": "Union",
+        "Facility": "Bernice Pharmacy",
+        "Address": "417 East Main Street, Bernice, LA",
+        "Website": "nan",
+        "Phone": "(318) 285-9521"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.398252,32.772169]
+      },
+      "properties": {
+        "Parish": "Union",
+        "Facility": "Brookshires Pharmacy #038",
+        "Address": "1018 Sterlington Highway, Farmerville, LA",
+        "Website": "https://www.brookshires.com/stores/farmerville-38/6368",
+        "Phone": "(318) 368-2218"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.252577,32.900192]
+      },
+      "properties": {
+        "Parish": "Union",
+        "Facility": "Matte's Pharmacy Inc.",
+        "Address": "314 Main Street, Marion, LA",
+        "Website": "https://stores.healthmart.com/mattespharmacy/our_pharmacy",
+        "Phone": "(318) 292-4570"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.24379,32.90153]
+      },
+      "properties": {
+        "Parish": "Union",
+        "Facility": "Morehouse Community Medical Center - Mar",
+        "Address": "335 Main Street, Marion, LA",
+        "Website": "nan",
+        "Phone": "(318) 292-2795"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.128017,29.964683]
+      },
+      "properties": {
+        "Parish": "Vermilion",
+        "Facility": "Super 1 Pharmacy #638",
+        "Address": "2210 Veterans Memorial Drive, Abbeville, LA",
+        "Website": "https://www.super1foods.com/stores/abbeville-638/6054",
+        "Phone": "(337) 898-1929"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.10524,29.97343]
+      },
+      "properties": {
+        "Parish": "Vermilion",
+        "Facility": "Thrifty Way Pharmacy of Abbeville",
+        "Address": "2640 North Drive, Abbeville, LA",
+        "Website": "https://thriftywayrx.com/contact-us/",
+        "Phone": "(337) 893-6304"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.134816,29.980555]
+      },
+      "properties": {
+        "Parish": "Vermilion",
+        "Facility": "Walgreens Pharmacy #07393",
+        "Address": "2201 Veterans Memorial Drive, Abbeville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.12589,29.9726]
+      },
+      "properties": {
+        "Parish": "Vermillion",
+        "Facility": "Abbeville Community Health Center",
+        "Address": "1009 Charity Street, Abbeville, LA",
+        "Website": "https://www.icchc.org/abbeville-la",
+        "Phone": "(337) 893-3443"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.270282,31.135257]
+      },
+      "properties": {
+        "Parish": "Vernon",
+        "Facility": "Outpatient Medical Center Leesville",
+        "Address": "908 S 10th Street, Leesville, LA",
+        "Website": "http://www.outpatientmedical.org",
+        "Phone": "(337) 238-1274"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.267809,31.124498]
+      },
+      "properties": {
+        "Parish": "Vernon",
+        "Facility": "Walgreens #10538",
+        "Address": "2008 S 5th Street, Leesville, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.810105,30.96552]
+      },
+      "properties": {
+        "Parish": "Washington",
+        "Facility": "Sumrall's Pharmacy",
+        "Address": "30304 Highway 21, Angie, LA",
+        "Website": "nan",
+        "Phone": "(985) 986-4433"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.851705,30.758395]
+      },
+      "properties": {
+        "Parish": "Washington",
+        "Facility": "Nielsen's Pharmacy",
+        "Address": "1619 S Columbia Street, Bogalusa, LA",
+        "Website": "mailto:nielsens_pharmacy@yahoo.com ",
+        "Phone": "(985) 732-7481"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.01313,30.907067]
+      },
+      "properties": {
+        "Parish": "Washington",
+        "Facility": "Creel's Family Pharmacy, LLC",
+        "Address": "26496 Highway 62, Franklinton, LA",
+        "Website": "https://www.facebook.com/Creels-Family-Pharmacy-25836314",
+        "Phone": "(985) 848-5555"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.269149,32.622056]
+      },
+      "properties": {
+        "Parish": "Webster",
+        "Facility": "Walgreens #15402",
+        "Address": "625 Homer Road, Minden, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.251231,32.628032]
+      },
+      "properties": {
+        "Parish": "Webster",
+        "Facility": "Walmart Pharmacy #87/Minden",
+        "Address": "1379 Homer Road, Minden, LA",
+        "Website": "https://www.walmart.com/store/87-minden-la",
+        "Phone": "(318) 377-8211"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.462143,32.991421]
+      },
+      "properties": {
+        "Parish": "Webster",
+        "Facility": "Springhill Family Pharmacy",
+        "Address": "1190 S Arkansas Street, Springhill, LA",
+        "Website": "https://www.springhillfamilypharmacy.com/",
+        "Phone": "(318) 539-3258"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.20979,30.45373]
+      },
+      "properties": {
+        "Parish": "West Baton Rouge",
+        "Facility": "Walgreens #15366",
+        "Address": "220 N Alexander Avenue, Port Allen, LA",
+        "Website": "https://www.walgreens.com/covid19vac",
+        "Phone": "nan"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.216871,30.420709]
+      },
+      "properties": {
+        "Parish": "West Baton Rouge",
+        "Facility": "Walmart Pharmacy #1136/Port Allen",
+        "Address": "3255 LA Highway 1 South, Port Allen, LA",
+        "Website": "https://www.walmart.com/store/1136-port-allen-la",
+        "Phone": "(225) 749-7454"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.398237,32.859699]
+      },
+      "properties": {
+        "Parish": "West Carroll",
+        "Facility": "Perkins Family Pharmacy",
+        "Address": "803 E Main Street, Oak Grove, LA",
+        "Website": "https://www.perkinsfamilypharmacy.com/oak-grove",
+        "Phone": "(318) 372-5419"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.383027,32.868303]
+      },
+      "properties": {
+        "Parish": "West Carroll",
+        "Facility": "West Carroll Memorial Hospital",
+        "Address": "706 Ross Street, Oak Grove, LA",
+        "Website": "nan",
+        "Phone": "(318) 428-4964"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.37725,30.8006]
+      },
+      "properties": {
+        "Parish": "West Feliciana",
+        "Facility": "St. Francisville Pharmacy",
+        "Address": "7189 Highway 61, St. Francisville, LA",
+        "Website": "https://www.facebook.com/st.franpharm/",
+        "Phone": "(225) 245-5141"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.653634,31.934926]
+      },
+      "properties": {
+        "Parish": "Winn",
+        "Facility": "Fred's Pharmacy #3231",
+        "Address": "2001 W Court Street, Winnfield, LA",
+        "Website": "nan",
+        "Phone": "(318) 648-6410"
+      }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.66671,31.90599]
+      },
+      "properties": {
+        "Parish": "Winn",
+        "Facility": "Walmart Pharmacy #244/Winnfield",
+        "Address": "5940 Highway 167 North, Winnfield, LA",
+        "Website": "https://www.walmart.com/store/244-winnfield-la",
+        "Phone": "(318) 628-4690"
+      }
+    }
+  ]
+}
